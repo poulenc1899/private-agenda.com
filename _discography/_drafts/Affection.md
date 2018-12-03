@@ -1,50 +1,35 @@
 ---
-title: "Affection EP"
-hp-title: "Affection"
+title: Affection EP
+hp-title: Affection
 permalink: "/discography/Affection/"
-layout: "release"
-release-date: "15th November 2018"
-label: "Nightshift"
-format: "Digital"
-type: "original"
-
+layout: release
+release-date: 15th November 2018
+label: Nightshift
+format: Digital
+type: original
 links:
-- category: "Buy Digital"
-  site: "Juno Download"
-  url: "https://www.junodownload.com/"
-- category: "Stream"
-  site: "Spotify"
-  url: "https://open.spotify.com/"
-
+- category: Stream
+  site: Spotify
+  url: https://open.spotify.com/album/39Gp1iDJ0pYgonqufSKDdY
+- category: Buy Digital
+  site: Bandcamp
+  url: http://private-agenda.bandcamp.com/album/affection
 credits:
-- role: "Electric Guitar"
-  instrument: "Nat Reading"
-
+- role: Electric Guitar
+  instrument: Nat Reading
 tracklist:
-- title: "Instinct"
-- title: "Ballad of a Bad Boy"
-- title: "Change"
-- title: "Bedsheets"
+- title: Instinct
+- title: Ballad of a Bad Boy
+- title: Change
+- title: Bedsheets
+press_quotes:
+- quote: 'A wonderfully refined EP: delicate synth pop, woozy dream pop vocals. ‘Change’
+    is timeless gem rediscovered from the depths of Island Records’ vaults'
+  author: ''
+  url: ''
+main-image: assets/img/
+thumb-image: assets/img/
 
-press_quotes:
-- quote: "Slick synth pop to soundtrack your next hook-up (and fuck up)"
-  author: ""
-  url: ""
-press_quotes:
-- quote: "With hooks this good, this whirlwind affair won’t be Private for much longer"
-  author: ""
-  url: ""
-press_quotes:
-- quote: "Pop hooks forever: Private Agenda’s most immediate output to date"
-  author: ""
-  url: ""
-press_quotes:
-- quote: "A wonderfully refined EP: delicate synth pop, woozy dream pop vocals. ‘Change’ is timeless gem rediscovered from the depths of Island Records’ vaults"
-  author: ""
-  url: ""
-
-main-image: "assets/img/"
-thumb-image: "assets/img/"
 ---
 {% include release-style.md %}
 
