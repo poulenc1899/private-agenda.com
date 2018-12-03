@@ -1,7 +1,8 @@
 ---
 layout: about
-title: Private Agenda
-permalink: /about/index.html
+title: Private Agenda - About
+permalink: "/about/index.html"
+
 ---
 {:normal-para: .f4 .lh-copy .measure .center .ph3}
 {:pullquote: .ph3 .f3 .f1-ns .measure-narrow .center .fw9 .lh-copy .lh-title-ns}
