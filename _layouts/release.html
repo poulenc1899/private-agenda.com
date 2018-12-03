@@ -1,0 +1,78 @@
+{% include head.html %} {% include nav-floating.html %}
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+<main class="w-100 bg-white">
+    <header class="vh-100 bg-white dt w-100">
+        <div style="background: url('{{ page.main-image | absolute_url }}') no-repeat center;background-size: cover;" class="bg-center dtc v-mid cover ph3 ph4-m ph5-l">
+        </div>
+    </header>
+    <div class="mw7 center">
+    <h1 class="w-100 ph3 f-5-ns f1 b ttu">{{ page.title }}</h1>
+</div>
+    <article class="w-100 pb4">
+                    <div class="f4 lh-copy measure center ph3">
+                {% for link in page.links %}
+                <span class="db">
+                        <a class="" href="{{ link.url }}" title="{{ link.category }} on {{ link.site }} " target="_blank">
+                        {{ link.category }}
+                      </a>
+                      </span> {% endfor %}
+            </div>
+
+        <div class="f4 lh-copy measure center ph3 pt3">  
+                
+                <div class="db"><span class="b">Format: </span>{{ page.format }}</div>
+                
+                <div class="db"><span class="b">Release Date: </span>{{ page.release-date }}</div>
+                
+                <div class="db"><span class="b">Label: </span>{{ page.label }}</div>
+
+                {% for credit in page.credits %}
+                <div class="db"><span class="b">{{ credit.role }}: </span>{{ credit.instrument }}</div>
+                {% endfor %}
+            
+
+          </div>
+
+        <div class="f4 lh-copy measure center ph3">
+            {{ content }}
+        </div>
+    </article>
+
+ {% if page.press_quotes %}
+    <section class="bt b--black-10 pb5">
+        <div class="">
+            {% for quote in page.press_quotes %}
+            <h2 class="f4 mt5 mb1 measure center lh-copy lh-title-ns tc">
+  "{{ quote.quote }}"
+</h2>
+            <div class="f4 gray tc measure center">
+                <a class="link" href="{{ quote.url }}" title="{{ quote.author }}" target="_blank">
+    – {{ quote.author }}
+  </a>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <section class="w-100 flex justify-center bt b--black-10 f4">
+        {% if page.previous.url %}
+        <article class="tl">            
+            <a href="{{page.previous.url}}" class="dim lh-title">               
+                <div class="pa3">
+                    Previous release: {{page.previous.title}}</a>           
+            </div>
+        </article>
+        {% endif %} 
+
+        {% if page.next.url %}
+                <article class="tr">            
+            <a href="{{page.next.url}}" class="dim lh-title">               
+                <div class="pa3">
+                    Next release: {{page.next.title}}</a>           
+            </div>
+        </article>
+        {% endif %}
+    </section>
+    
+    {% include footer-white.html %}

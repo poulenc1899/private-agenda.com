@@ -1,0 +1,6 @@
+<section class="pa3 pa4-ns">
+{% for item in site.discography %}
+  <a class="f3 link hover-dark-blue b no-underline blue db pv0" href="{{ item.url }}">{{ item.title }}</a>
+  <p class="pv0">{{ item.format }}</p>
+{% endfor %}
+</section>

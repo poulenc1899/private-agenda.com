@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120545928-1"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120545928-1');
+</script>
+<meta http-equiv="Cache-control" content="private" max-age="604800">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Private Agenda Discography, Biography and Contact" />
+<meta property="og:title" content="Private Agenda" />
+<meta property="og:description" content="Private Agenda Discography, Biography and Contact" />
+<meta property="og:image" content="{{ site.url }}/assets/img/temp-homepage-large-2.jpg" />
+<link rel="shortcut icon" href="{{ site.url }}/favicon.ico" type="image/x-icon" />
+    <meta charset="UTF-8">
+    <title>Private Agenda</title>
+
+        {% if site.css == 'inline' %}
+        <style>
+            {% capture inline-styles %}
+            {% include style.scss %}
+            {% endcapture %}
+            {{ inline-styles | scssify }}
+        </style>
+        {% else %}
+        <link href="/css/style.css" rel="stylesheet">
+        {% endif %}
+</head>

@@ -1,0 +1,44 @@
+
+
+<section class="cf w-100 pa2-ns">
+  <div class="ph2">
+  <h1 class="f6 fw6 ttu tracked">Show</h1>
+  <a class="sort-button f6 link dim br2 ph3 pv2 mb2 dib white bg-gold" href="#0" id="all">All Releases</a>
+  <a class="sort-button f6 link dim br2 ph3 pv2 mb2 dib white bg-blue" href="#0" id="original">Originals</a>
+  <a class="sort-button f6 link dim br2 ph3 pv2 mb2 dib white bg-green" href="#0" id="remix">Remixes</a>
+  <a class="sort-button f6 link dim br2 ph3 pv2 mb2 dib white bg-purple" href="#0" id="collaboration">Collaborations</a>
+  <a class="sort-button f6 link dim br2 ph3 pv2 mb2 dib white bg-orange" href="#0" id="compilation">Compilations</a>
+</div>
+<div id="discography-list">
+  {% for item in site.discography reversed %}
+  <article class="cf fl w-100 w-50-m  w-25-ns pa2-ns all {{ item.type }}">
+    <a href="{{ item.url }}" class="ph2 ph0-ns pb3 link db">
+    <div class="aspect-ratio aspect-ratio--1x1">
+      <img style="background-image:url({{ item.thumb-image | absolute_url }});" 
+      class="db bg-center cover aspect-ratio--object" />
+    </div>
+    <div class="h4-ns">
+      <h3 class="f5 f4-ns mb0 black-90">{{ item.title }}</h3>
+      <h3 class="f6 f5 fw4 mt2 black-60">{{ item.format }}</h3>
+    </div>
+    </a>
+  </article>
+  {% endfor %}
+</div>
+</section>
+
+<script type="text/javascript" src="{{ site.url }}/js/jquery-3.3.1.min.js"></script>
+<script>
+$(document).ready(function(){
+
+   $(".sort-button").click(function(){
+     var cat = $(this).attr('id');
+     $("#discography-list article").each(function(){
+    if($(this).hasClass(cat))   
+       $(this).show();
+    else
+       $(this).hide();           
+    });      
+ });
+});
+</script>

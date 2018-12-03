@@ -1,0 +1,72 @@
+{% include head.html %} {% include nav-floating.html %}
+<main class="w-100 bg-white">
+    <section id="Masthead" class="w-100 c-vh-150 relative overflow-hidden">
+
+        <div id="Layer-zero" class="vh-100 absolute top-0 right-0 left-0">
+        </div>
+        <div id="Layer-four" class="absolute top-0 right-0 left-0 pa4-ns pa0">
+            <div class="vh-100 vh-50-m dn-l"></div>
+            <div class="fr w-50-l w-75-m w-100 mt6 pt3 relative" data-scroll-speed="4">
+                <img class="w-100" src="assets/img/mariusknieling_FILM/privateagenda_film12.jpg">
+            </div>
+        </div>
+        <div id="Layer-one" class="absolute top-0 right-0 left-0 ph1 ph5-ns pv5">
+            <div class="fl w-third-l w-75-m w-100 pv4-ns pv6" data-scroll-speed="1">
+                <img class="w-100" src="assets/img/PA-Grid-1800.png">
+            </div>
+        </div>
+        <div id="Layer-two" class="absolute top-0 right-0 left-0 pa4-ns pa0">
+            <div class="dn-ns db vh-25"></div>
+            <div class="fl w-50-l w-75-m w-100 mt7 mt3-m pt5" data-scroll-speed="9">
+                <img class="w-100" src="assets/img/Discography-Cover_Baleariccomp_thumb.jpg">
+            </div>
+        </div>
+        <div id="Layer-three" class="absolute top-0 right-0 left-0 ph1 ph5-ns pv5">
+            <div class="fl w-third-l w-75-m w-100 pv4-ns pv6" data-scroll-speed="1">
+                <img class="w-100" src="assets/img/PA-Grid-2800.png">
+            </div>
+        </div>
+        <div id="Layer-five" class="absolute top-0 right-0 left-0 pa5-ns pa0 dn db-l">
+            <div class="vh-100"></div>
+            <div class="fr w-two-thirds-l w-100" data-scroll-speed="8">
+                <video muted loop autoplay name="media" class="w-100">
+                    <source src="/assets/img/water.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+        </div>
+        </div>
+    </section>
+    <section id="discography-section" class="relative mt4">
+
+        <div id="discography-title" class="relative helvetica fw5 ttu f4 w-third-ns fl-ns ph4-ns ph2">
+            Discography
+        </div>
+        
+          <div id="discography-preview" class="w-100 mt5 dn db-ns absolute z-1">
+                <div id="discography-preview-image" class="w-100 vh-50 bg-center"></div>
+            </div>
+
+            <div id="discography-list-and-filter" class="z-2 flex relative">
+                <div id="filter-list" class="mb4 f4 mh3 ">
+                    <a class="filter-button dim black pv1-ns pv2 db" href="#0" id="all-discog-items">All Releases</a>
+                    <a class="filter-button dim black pv1-ns pv2 db" href="#0" id="original">Originals</a>
+                    <a class="filter-button dim black pv1-ns pv2 db" href="#0" id="remix">Remixes</a>
+                    <a class="filter-button dim black pv1-ns pv2 db" href="#0" id="collaboration">Collaborations</a>
+                    <a class="filter-button dim black pv1-ns pv2 db" href="#0" id="compilation">Compilations</a>
+                </div>
+                <div id="discography-list" class="mb4 f4 mh3">
+                    {% for item in site.discography reversed %}
+                    <link rel="preload" href="{{ site.url }}/{{ item.thumb-image }}" as="image" media="(max-width: 600px)">
+                    <article class="pv1-ns pv2 all-discog-items {{ item.type }}">
+                        <a href="{{ item.url }}" data-title="{{ item.title }}" data-format="{{ item.format }}" data-date="{{ item.release-date }}" data-thumb="{{ site.url }}/{{ item.thumb-image | url_encode}}" class="dim">
+{{ item.hp-title }}
+            </a>
+                    </article>
+                    {% endfor %}
+                </div>
+            </div>
+    </section>
+    <script type="text/javascript" src="{{site.url}}/js/scrollSpeed.js" defer="defer"></script>
+    <script type="text/javascript" src="{{site.url}}/js/sort-discography.js" defer="defer"></script>
+    {% include footer-white.html %}

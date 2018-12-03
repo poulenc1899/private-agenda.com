@@ -1,0 +1,24 @@
+{% include head.html %}
+{% include nav-floating.html %}
+<main class="">
+		<div class="pa3 pa5-ns f1 b ttu">
+    {{ page.title }}
+</div>
+<article class="w-100 ph3 ph5-ns Helvetica f4 pb4">
+	Photos by <a href="https://www.instagram.com/whatsapp_ricky/" target="_blank">Richard Barr</a>
+</article>
+
+<article class="w-100 pb4 cf">
+
+{% for image in site.static_files reversed %}
+    {% if image.path contains 'img/studio/thumbs' %}
+    <div class="w-third-l w-50-m w-100 fl aspect-ratio aspect-ratio--16x9">
+        <span style="background-image:url({{ site.baseurl }}{{ image.path }});" class="cover bg-center aspect-ratio--object"></span>
+    </div>
+    {% endif %}
+{% endfor %}
+
+</article>
+
+
+{% include footer-white.html %}

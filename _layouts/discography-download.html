@@ -1,0 +1,20 @@
+{% include head.html %}
+{% include nav-floating.html %}
+<main class="w-100">
+	<div class="w-100 pa3 pa5-ns f-headline-l f-subheadline b">
+    {{ page.title }}
+</div>
+<section class="f4 lh-copy measure center ph3 pb4">
+
+{% for file in site.static_files reversed %}
+    {% if file.path contains 'mp3' or file.path contains 'wav' %}
+    <p>
+   <a class="link" href="{{ site.url }}{{ file.path }}">{{ file.name }}</a>
+</p>
+    {% endif %}
+{% endfor %}
+
+</section>
+
+
+{% include footer-white.html %}
