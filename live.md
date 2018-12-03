@@ -2,10 +2,10 @@
 layout: live
 title: Live
 subheading: Oh, boy do we put on a show
-permalink: /live/index.html
----
+permalink: "/live/index.html"
 
-![Sean and Martin of Private Agenda]({{ site.url }}/assets/img/temp-pickle-1.jpg)  
+---
+![Sean and Martin of Private Agenda]({{ site.url }}/assets/img/temp-pickle-1.jpg)
 
 {: .f4 .lh-copy .measure .center .i}
 Photo by Mark Phillips
@@ -41,4 +41,5 @@ Recent Shows
 **26.07.18** - Brilliant Corners (London, UK) DJ  
 **26.08.18** - Bar Number 90 (London, UK) DJ  
 **26.09.18** - Soho House (Berlin, DE) DJ  
-**24.11.18** - Robert Johnson (Offenbach, DE) DJ  
+**21.11.18** - Zum böhmischen Dorf (Berlin, DE) LIVE  
+**24.11.18** - Robert Johnson (Offenbach, DE) LIVE
