@@ -19,7 +19,7 @@ fields:
   label: Permalink
   type: text
   hidden: false
-  default: ''
+  default: "/discography/"
   description: the page address e.g. "/discography/Balearic-4/"
 - name: hp-title
   label: Hp title
