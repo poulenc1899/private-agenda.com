@@ -1,33 +1,38 @@
 ---
-label: Balearic 4
-hide_body: 
-is_partial: 
+label: Discography Item
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: release
+  description: leave as "release" most of the time
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  description: The full release title e.g. "Balearic 4"
 - name: permalink
   label: Permalink
   type: text
   hidden: false
   default: ''
+  description: the page address e.g. "/discography/Balearic-4/"
 - name: hp-title
   label: Hp title
   type: text
   hidden: false
   default: ''
+  description: The short title as it appears on the homepage e.g. "Irréversible"
 - name: release-date
   label: Release date
   type: text
   hidden: false
   default: ''
+  description: e.g. "6th October 2018"
 - name: label
   label: Label
   type: text
@@ -42,7 +47,9 @@ fields:
   label: Type
   type: text
   hidden: false
-  default: ''
+  default: original
+  description: either "original", "remix", "collaboration" or "compilation" (choose
+    one)
 - name: links
   label: Links
   type: field_group_list
@@ -52,16 +59,19 @@ fields:
     type: tag_list
     hidden: false
     default: ''
+    description: The text of the link e.g. "Buy Digital"
   - name: site
     label: Site
     type: text
     hidden: false
     default: ''
+    description: The name of the shop or website e.g. "Boomkat"
   - name: url
     label: Url
     type: textarea
     hidden: false
     default: ''
+    description: The exact URL of the page
   hidden: false
   default: ''
 - name: tracklist
@@ -111,8 +121,10 @@ fields:
   type: file
   hidden: false
   default: ''
+  description: Main header image for release page (1440 × 903px, .jpg)
 - name: thumb-image
   label: Thumb image
   type: file
   hidden: false
   default: ''
+  description: thumbnail image for homepage (800 × 502px, .jpg)
