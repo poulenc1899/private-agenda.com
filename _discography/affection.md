@@ -30,4 +30,7 @@ main-image: "/assets/img/affection-web-main.jpg"
 thumb-image: "/assets/img/affection-web-thumb.jpg"
 
 ---
+{% include release-style.md %}
+
+{: p1}  
 More info coming soon...
