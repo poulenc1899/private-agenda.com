@@ -83,16 +83,19 @@ fields:
     type: text
     hidden: false
     default: ''
+    description: title of track
   - name: duration
     label: Duration
     type: text
     hidden: false
     default: ''
+    description: e.g. 5:10
   - name: src
     label: Src
     type: text
     hidden: false
     default: ''
+    description: can be left blank
   hidden: false
   default: ''
 - name: press_quotes
@@ -109,6 +112,7 @@ fields:
     type: text
     hidden: false
     default: ''
+    description: Author or publication name
   - name: url
     label: Url
     type: text
