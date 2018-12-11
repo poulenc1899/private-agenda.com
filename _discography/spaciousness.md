@@ -1,5 +1,5 @@
 ---
-title: Ultramarine (from the Lo Recordings Spaciousness Compilation)
+title: Ultramarine - Lo Recordings Spaciousness Compilation
 layout: release
 type: original
 date: 2018-12-11 11:47:57 +0000
