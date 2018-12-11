@@ -17,8 +17,8 @@ links:
   site: Bandcamp
 tracklist: []
 press_quotes: []
-main-image: "/assets/img/affection-web-main-2.jpg"
-thumb-image: "/assets/img/affection-web-thumb-2.jpg"
+main-image: assets/img/affection-web-main-2.jpg
+thumb-image: assets/img/affection-web-thumb-2.jpg
 
 ---
 {% include release-style.md %}
