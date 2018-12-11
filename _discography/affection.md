@@ -6,8 +6,8 @@ date: 2018-12-11 11:36:32 +0000
 permalink: "/discography/Affection/"
 hp-title: Affection
 release-date: 16th November 2018
-label: ''
-format: Nightshift
+label: Nightshift
+format: Digital
 links:
 - category: ''
   site: Bandcamp
