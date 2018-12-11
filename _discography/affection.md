@@ -26,8 +26,8 @@ tracklist:
   duration: ''
   src: ''
 press_quotes: []
-main-image: "/assets/img/affection-web-main.jpg"
-thumb-image: "/assets/img/affection-web-thumb.jpg"
+main-image: assets/img/affection-web-main.jpg
+thumb-image: assets/img/affection-web-thumb.jpg
 
 ---
 {% include release-style.md %}
