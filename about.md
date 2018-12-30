@@ -35,4 +35,7 @@ Photo by Mark Phillips
 The pair have embarked on a scopious musical journey releasing music on iconic indie labels such as International Feel, Lo Recordings (Aphex Twin, Grimes), Wall of Sound (Grace Jones, Röyksopp) and Live at Robert Johnson (Fort Romeau, Roman Flügel), collaborating with artists such as Berghain-resident Massimiliano Pagliara, attracting remixes from artists such as Tuff City Kids and Andy Butler (Hercules and Love Affair) and taking their live show on tour with emerging talents like Parcels (Kitsune) and Park Hotel, attracting admirers in the electronic music underground and the mainstream music industry alike.
 
 {: normal-para}  
-Never shying away from the tensions that underpin the club culture their music inhabits, they’ve also never shied away from narrating their own stories
+Never shying away from the tensions that underpin the club culture their music inhabits, they’ve also never shied away from narrating their own stories.
+
+{: normal-para}  
+Read of the stories behind our releases in [Discography](https://private-agenda.com/discography/ "Discography")
