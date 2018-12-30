@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Private Agenda - About
+title: What is Private Agenda?
 permalink: "/about/index.html"
 
 ---
