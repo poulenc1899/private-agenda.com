@@ -38,4 +38,4 @@ The pair have embarked on a scopious musical journey releasing music on iconic i
 Never shying away from the tensions that underpin the club culture their music inhabits, they’ve also never shied away from narrating their own stories.
 
 {: normal-para}  
-Read of the stories behind our releases in [Discography](https://private-agenda.com/discography/ "Discography")
+Read of the stories behind our releases in [Discography](https://private-agenda.com/discography/ "Discography").
