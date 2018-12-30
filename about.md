@@ -12,20 +12,26 @@ permalink: "/about/index.html"
 {: .ph3 .f4 .lh-copy .measure .center .i}
 Photo by Marius Knieling
 
-{: normal-para}   
+{: normal-para}  
 Private Agenda create music to reminisce to, in a variety of shades, from their studios in London and Berlin.
 
-{: normal-para} In their teen years, Sean Phillips and Martin Aggrowe dipped in and out of musical projects with their peers, swapping instruments, records and literature along the way. What united these early efforts was a growing fascination and exploration of a multi-genre, interdisciplinary approach to musical projects. If Private Agenda didn’t exist in name, it existed in spirit from an early stage. In their teen years, Sean Phillips and Martin Rowe dipped in and out of musical projects with their peers, swapping instruments, records and literature along the way. What united these early efforts was a growing fascination and exploration of a multi-genre, interdisciplinary approach to musical projects. If Private Agenda didn’t exist in name, it existed in spirit from an early stage. In their teen years, Sean Phillips and Martin Rowe dipped in and out of musical projects with their peers, swapping instruments, records and literature along the way. What united these early efforts was a growing fascination and exploration of a multi-genre, interdisciplinary approach to musical projects. If Private Agenda didn’t exist in name, it existed in spirit from an early stage. {: normal-para} {: normal-para} {: normal-para} 
+{: normal-para} In their teen years, Sean Phillips and Martin Aggrowe dipped in and out of musical projects with their peers, swapping instruments, records and literature along the way. What united these early efforts was a growing fascination and exploration of a multi-genre, interdisciplinary approach to musical projects. If Private Agenda didn’t exist in name, it existed in spirit from an early stage.
 
 ![Sean and Martin of Private Agenda]({{ site.url }}/assets/img/temp-peckham-1.jpg)
 
 {: .ph3 .f4 .lh-copy .measure .center .i}
 Photo by Mark Phillips
 
-{: normal-para}   
+{: normal-para}  
 In a creative industry obsessed with labels and labelling, it was the discovery of the eclectic music and fashion culture of the late 1980s ‘Balearic Beat’ – a world where Talking Heads, Mark Isham and The Human League could be uttered in the same sentence – and a site where consciously forward-thinking production and stylistic sensibilities with deep roots in the electronic music underground were coupled with unabashed reverence for melody and pop songwriting. It was the musical culture of an island the pair had never set foot upon that would give the pair’s collaborative work a referential framework.
 
 ![Sean and Martin of Private Agenda]({{ site.url }}/assets/img/temp-pickle-1.jpg)
 
 {: .ph3 .f4 .lh-copy .measure .center .i}
 Photo by Mark Phillips
+
+{: normal-para}  
+The pair have embarked on a scopious musical journey releasing music on iconic indie labels such as International Feel, Lo Recordings (Aphex Twin, Grimes), Wall of Sound (Grace Jones, Röyksopp) and Live at Robert Johnson (Fort Romeau, Roman Flügel), collaborating with artists such as Berghain-resident Massimiliano Pagliara, attracting remixes from artists such as Tuff City Kids and Andy Butler (Hercules and Love Affair) and taking their live show on tour with emerging talents like Parcels (Kitsune) and Park Hotel, attracting admirers in the electronic music underground and the mainstream music industry alike.
+
+{: normal-para}  
+Never shying away from the tensions that underpin the club culture their music inhabits, they’ve also never shied away from narrating their own stories
