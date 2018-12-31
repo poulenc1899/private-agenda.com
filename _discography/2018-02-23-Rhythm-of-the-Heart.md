@@ -31,10 +31,7 @@ press_quotes:
   author: "Lauren Laverne, BBC 6Music"
   url: "https://www.bbc.co.uk/programmes/b09twv34"
 ---
-{% include release-style.md %}
 
-{: p1}
 [Stats](https://soundcloud.com/statsstatsstats) are a bit of a cult, underground London disco supergroup. They’re led by Ed Seed, who’s toured for many years in [La Roux’](https://en.wikipedia.org/wiki/La_Roux) and more recently, [Dua Lipa’s](http://dualipa.com/) live band. We’d met having shared the stage and the booth a couple of times whilst playing shows in London with mutual disco pals [Park Hotel](http://www.parkhotelband.com/). 
 
-{: p}
 When we were asked if we’d like to remix Rhythm of the Heart, it was a great honour. It’s one of those brilliant 3-minute DIY disco nuggets. All the stems are dynamite. There was just so much to work with. Our aim was to take the static and sensuous robot-funk of the original and to stretch it out into an indie floor-filler. [Lauren Laverne played it](https://www.bbc.co.uk/programmes/b09twv34) bunch of times on BBC 6Music, so it did the job.

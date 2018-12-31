@@ -32,7 +32,5 @@ tracklist:
 main-image: "assets/img/Discography-Cover_Sheerrocks_1440.jpg"
 thumb-image: "assets/img/Discography-Cover_Sheerrocks_thumb.jpg"
 ---
-{% include release-style.md %}
 
-{: p1}
 [Sheer Rocks](http://www.sheer-rocks.com/) is a beautiful open air restaurant on the West coast of Antigua. The kind of place you dream of slurping on a colourful cocktail whilst catching some rays. Exactly the sort of environment we envisioned our track, Deja Vu to be played. It was quite fitting then that [Pete Gooding](https://www.residentadvisor.net/dj/petegooding) was tasked with compiling a breezy, feel good compilation to soundtrack those afternoon drinking sessions in the West Indies, placing our debut single in the mix amidst similarly mellow numbers from [Telephones](https://soundcloud.com/telephones), [Jose Padilla](https://en.wikipedia.org/wiki/Jos%C3%A9_Padilla_(DJ)) and [Paqua](https://www.residentadvisor.net/dj/paqua). Heavyweight Balearic.

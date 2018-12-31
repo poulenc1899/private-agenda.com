@@ -36,14 +36,11 @@ press_quotes:
 main-image: "assets/img/Discography-Cover_Primarycolours_1440.jpg"
 thumb-image: "assets/img/Discography-Cover_Primarycolours_thumb.jpg"
 ---
-{% include release-style.md %}
 
-{: p1}
 When we’re in the studio together, we’ll often wind down at the piano, attempting to write a quick ballad or we’ll try to perform that Bach piece we could never play quite right when we were younger. Primary Colours came out of these moments of release and relaxation. 
 
-{: p}
 We’ve always been inspired by the idea of concept albums – for the coherence and storytelling they encourage. Primary Colours was partly inspired by Primo Levi’s fictional work, [The Periodic Table](https://en.wikipedia.org/wiki/The_Periodic_Table_(short_story_collection)) which takes chemical elements as guidance for storytelling, Primary Colours is a play on the relationship between music and colour. 
 
-{: p}
-Taking inspiration from raw colour and crude natural pigments, we created four sketches. This EP was inspired by reds, oranges and yellows; elemental, primitive and earthy. It was Autumn after all. Instrumentally, we kept it simple: analogue electronic instruments, piano and ambient noise alone formed the palette of sound.
+{% include youtube-player.html id="nO-kubCoosU" %}
 
+Taking inspiration from raw colour and crude natural pigments, we created four sketches. This EP was inspired by reds, oranges and yellows; elemental, primitive and earthy. It was Autumn after all. Instrumentally, we kept it simple: analogue electronic instruments, piano and ambient noise alone formed the palette of sound.

@@ -50,16 +50,13 @@ press_quotes:
 main-image: "assets/img/Discography-Cover_ParalysedLittle_2200.jpg"
 thumb-image: "assets/img/Discography-Cover_ParalysedLittle_thumb.jpg"
 ---
-{% include release-style.md %}
 
-{: p1}
 Paralysed & Little Bird were the sound of a band trying to find their feet, pushing at two different directions to see what stuck. Some might call it the difficult second record, but we look upon it with a lot of affection. ‘Paralysed’ is a bundle of unbridled fun: piano-led house inspired as much by New York as Paris, tongue-in-cheek vocal lines, tight funk guitar. It’s bright, breezy and pretty sleazy. 
 
-{: p}
-Given its colourful feel, the track lent itself to a headier, darker remix. We couldn’t have hoped for a better team to help us out. The story goes that [Tuff City Kids](https://www.facebook.com/tuffcitykids/) (Gerd Janson of [Running Back](https://runningbackrecords.bandcamp.com/) and [Philip Lauer](https://www.residentadvisor.net/dj/lauer) were in the studio with [Mark Barrott](https://www.markbarrott.com/) working together on the [Talamanca System](https://www.discogs.com/artist/4087375-Talamanca-System) album when our demo slipped into Marks’ inbox. 
+Given its colourful feel, the track lent itself to a headier, darker remix. We couldn’t have hoped for a better team to help us out. The story goes that [Tuff City Kids](https://www.facebook.com/tuffcitykids/) (Gerd Janson of [Running Back](https://runningbackrecords.bandcamp.com/) and [Philip Lauer](https://www.residentadvisor.net/dj/lauer) were in the studio with [Mark Barrott](https://www.markbarrott.com/) working together on the [Talamanca System](https://www.discogs.com/artist/4087375-Talamanca-System) album when our demo slipped into Marks’ inbox.
 
-{: p}
+{% include youtube-player.html id="N549peZtJo0" %}
+
 Gerd apparently loved it so much he agreed to do the remix there and then. Whether that’s true or not, Gerd and Philip propelled that record into a deeper, hedonistic directions. It was a staple at [Andrew Weatherall](https://www.residentadvisor.net/dj/andrewweatherall) and [Sean Johnston’s](https://www.residentadvisor.net/dj/seanjohnston) iconic [A Love from Outer Space](http://www.factmag.com/2010/05/14/andrew-weatherall-offers-a-love-from-outer-space/) party in the final months of 2015 and I heard it played out at Panorama Bar once, so it’s been round the block and had the stamp of legitimacy from some DJ royalty.  
 
-{: p}
 On the flipside is ‘Little Bird', which pushes at something a little different. We had ‘Balearic anthem’ in mind: bird noises, sax, guitar, a ‘take me higher’ refrain. [Neon Indian](http://neonindian.com/) loves it (we’ve got the video evidence to prove it) Others don’t: Rob Harris (Dr Rob) who was writing for ‘the’ Balearic blog, [Test Pressing](http://testpressing.org/) at the time fucking hated it. Marmite music clearly. 

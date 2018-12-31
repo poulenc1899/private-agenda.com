@@ -10,7 +10,7 @@ var imageResize = require('gulp-image-resize');
 var changed = require("gulp-changed");
 
 // Task for building site when something changed:
-gulp.task('build', shell.task(['bundle exec jekyll serve --port 3000 ']));
+gulp.task('build', shell.task(['bundle exec jekyll serve --port 3000 --incremental']));
 
 // Task for serving site with Browsersync
 gulp.task('serve', function () {

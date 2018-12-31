@@ -25,10 +25,9 @@ press_quotes:
   url: "https://earmilk.com/2018/10/01/fhin-releases-lush-electronic-mix-of-irreversible"
 
 ---
-{% include release-style.md %}
 
-{: p1}
 It seems to us that it’s a dead heat between the Swedes and the French in the battle of which nationality does slick, modern synth-pop best. [Delicieuse Records](https://www.facebook.com/DelicieuseRecords/) flies the flag for France – a real hub for emerging talent and home to Paris-based artist, [Fhin](https://www.facebook.com/fhinmusic/). 
 
-{: p}
+{% include youtube-player.html id="9vg8K9aO-_A" %}
+
 On his Around Away EP he teamed up with [Chløë Black](https://www.facebook.com/chloeblackmusic/) for Irréversible, a modern pop track oozing class with great lyricism and instrumentation and even better hooks. We’ve been fortunate to have the support of Delicieuse for some of our previous records, so it was even nicer to work more closely with the label on a remix. On Irréversible we were trying to find a middle ground between tasteful, referential downtempo and Spring Break pool party, with so many great elements to work with, we think we worked out a happy medium.

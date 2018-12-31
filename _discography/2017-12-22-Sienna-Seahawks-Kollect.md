@@ -23,13 +23,11 @@ tracklist:
 main-image: "assets/img/Discography-Cover_sienna_1440.jpg"
 thumb-image: "assets/img/Discography-Cover_sienna_thumb.jpg"
 ---
-{% include release-style.md %}
 
-{: p1}
 Closing out this end-of-year label collection from [Needwant](http://www.needwant.co.uk/) – the crew that’s also behind those epic [Future Disco](http://www.futuredisco.net/) compilations and released our Primary Colours EP – is Seahawks’ remix of Sienna. 
 
-{: p}
 [Seahawks](https://www.discogs.com/artist/1799314-Seahawks) are a band that were definitely a key part of our musical education. I can remember heading to [Rough Trade](https://www.roughtrade.com/) not long after it had moved from Neal’s Yard to Shoreditch and being recommended [Seahawks’ Invisible Sunrise LP.](https://www.discogs.com/Seahawks-Invisible-Sunrise/master/391037) 
 
-{: p}
+{% include youtube-player.html id="J5KWAFRWPtk" %}
+
 I’d been getting really into dream pop and psychedelic records, but also I’d always loved electronic music. Seahawks expertly combined all three. Having followed the band for years it was really something special to have their mark left on Sienna. Their remix is a real highlight on the EP and a wonderful meditation. But then again, we were expecting nothing less from Jon and Pete.

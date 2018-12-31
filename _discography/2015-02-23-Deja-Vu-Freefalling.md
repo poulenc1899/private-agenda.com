@@ -1,4 +1,5 @@
 ---
+
 title: "Déjà Vu / Freefalling"
 hp-title: "Déjà Vu / Freefalling"
 permalink: "/discography/Deja-Vu-Freefalling/"
@@ -63,10 +64,9 @@ press_quotes:
 main-image: "assets/img/Discography-Cover_FreefallingDeja_2200.jpg"
 thumb-image: "assets/img/Discography-Cover_FreefallingDeja_thumb.jpg"
 ---
-{% include release-style.md %}
 
-{: p1}
 When we were looking for a home for our debut single, we were looking for a label in the electronic music world that "got" pop music and wasn’t afraid to bring its immediacy to the dancefloor. Having grown up in Sheffield in the 80s, [International Feel’s](https://soundcloud.com/international-feel) [Mark Barrott](https://www.markbarrott.com/) "gets" synth-pop and clearly understood what we were grasping at: a 12’’ single with two extended pop tracks. They’re a rare currency these days, but that wasn’t always the case. 
 
-{: p}
 *Deja Vu* emerged from an attempt at trying to evoke the feeling of the time that soul met synthesisers, shoulder pads took Sheffield by storm and disco’s finest decamped to that sonic Caribbean playground, Compass Point.
+
+{% include youtube-player.html id="rDocUc_X_0M" %}
