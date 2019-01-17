@@ -132,6 +132,3 @@ fields:
   hidden: false
   default: ''
   description: thumbnail image for homepage (800 × 502px, .jpg)
-pages:
-- _discography/spaciousness.md
-- _discography/affection.md
