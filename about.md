@@ -39,3 +39,6 @@ Never shying away from the tensions that underpin the club culture their music i
 
 {: normal-para}  
 Read of the stories behind our releases in [Discography](https://private-agenda.com/discography/ "Discography").
+
+{: normal-para}  
+Download Private Agenda's [latest press pictures](https://www.dropbox.com/sh/gs1x7vc0tplkfta/AACfXklT4cvZ9s6Lcpsm4T23a?dl=0 "Press Images Download").
