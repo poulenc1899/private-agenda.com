@@ -9,11 +9,11 @@ release-date: 16th November 2018
 label: Lo Recordings
 format: Vinyl, Digital
 links:
-- category: ''
+- category: 'Buy'
   site: Bandcamp
   url: https://lorecordings.bandcamp.com/album/spaciousness
-- category: ''
-  url: https://lorecordings.bandcamp.com/album/spaciousness
+- category: 'Stream'
+  url: https://open.spotify.com/album/16maj9nxQJsRJxXMUiLOhx
   site: Bandcamp
 tracklist: []
 press_quotes: []
