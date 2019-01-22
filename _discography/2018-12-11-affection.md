@@ -9,9 +9,14 @@ release-date: 16th November 2018
 label: Nightshift
 format: Digital
 links:
-- category: ''
+- category: 'Download'
   site: Bandcamp
   url: http://private-agenda.bandcamp.com/album/affection
+- category: 'Stream'
+  site: Spotify
+  url: https://open.spotify.com/album/39Gp1iDJ0pYgonqufSKDdY
+
+
 tracklist:
 - title: Instinct
   duration: ''
