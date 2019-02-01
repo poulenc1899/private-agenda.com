@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Site title"
-description: "A site description"
+title: "Private Agenda - Music to Reminisce to"
+description: "Private Agenda create music to reminisce to, in a variety of shades, from their studios in London and Berlin. Discover Private Agenda's work in detail, find press photos, the official biography and how to get in touch."
 lang: "en" # or fr, de, es etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://private-agenda.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -42,7 +42,7 @@ sass:
 collections:
  discography:
   output: true
-  permalink: /:collection/:name
+  permalink: /:collection/:title/
 
 
 
