@@ -1,8 +1,8 @@
 ---
 
 title: "Déjà Vu / Freefalling"
-hp-title: "Déjà Vu / Freefalling"
-permalink: "/discography/Deja-Vu-Freefalling/"
+hpTitle: "Déjà Vu / Freefalling"
+
 layout: "release-prototype"
 release-date: "23rd February 2015"
 label: "International Feel"

@@ -1,7 +1,7 @@
 ---
 title: "Killaflaw - Message (Private Agenda Remix)"
-hp-title: "Message"
-permalink: "/discography/Killaflaw-Message-Private-Agenda-Remix/"
+hpTitle: "Message"
+
 layout: "release"
 release-date: "4th March 2016"
 label: "Wall of Sound"

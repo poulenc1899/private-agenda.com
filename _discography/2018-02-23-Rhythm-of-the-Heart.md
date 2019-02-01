@@ -1,7 +1,7 @@
 ---
 title: "Stats - Rhythm of the Heart (Private Agenda Remix)"
-hp-title: "Rhythm of the Heart"
-permalink: "/discography/Stats-Rhythm-of-the-Heart-Private-Agenda-Remix/"
+hpTitle: "Rhythm of the Heart"
+
 layout: "release"
 release-date: "23rd February 2018"
 label: "Talkshow Records"

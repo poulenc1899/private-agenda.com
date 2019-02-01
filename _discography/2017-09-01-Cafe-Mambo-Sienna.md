@@ -1,7 +1,7 @@
 ---
 title: "Sienna - Cafe Mambo Ibiza - Sunset To After Dark"
-hp-title: "Cafe Mambo Sunset To After Dark"
-permalink: "/discography/Sienna-Cafe-Mambo-Ibiza-Sunset-To-After-Dark/"
+hpTitle: "Cafe Mambo Sunset To After Dark"
+
 layout: "release"
 release-date: "1st September 2017"
 label: "Needwant"

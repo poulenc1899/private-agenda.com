@@ -1,7 +1,7 @@
 ---
 title: "Primary Colours"
-hp-title: "Primary Colours"
-permalink: "/discography/Primary-Colours/"
+hpTitle: "Primary Colours"
+
 layout: "release"
 release-date: "29th September 2017"
 label: "Needwant"

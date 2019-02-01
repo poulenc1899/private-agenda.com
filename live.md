@@ -2,7 +2,7 @@
 layout: live
 title: Live
 subheading: Oh, boy do we put on a show
-permalink: "/live/index.html"
+menus: header
 
 ---
 ![Sean and Martin of Private Agenda]({{ site.url }}/assets/img/temp-pickle-1.jpg)

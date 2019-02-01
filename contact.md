@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Get in Touch
-permalink: "/contact/index.html"
+title: Contact
+menus: header
 
 ---
 

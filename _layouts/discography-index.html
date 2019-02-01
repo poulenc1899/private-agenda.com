@@ -23,7 +23,7 @@
                     <link rel="preload" href="{{ site.url }}/{{ item.thumb-image }}" as="image" media="(max-width: 600px)">
                     <article class="pv1-ns pv2 all-discog-items {{ item.type }}">
                         <a href="{{ item.url }}" data-title="{{ item.title }}" data-format="{{ item.format }}" data-date="{{ item.release-date }}" data-thumb="{{ site.url }}/{{ item.thumb-image | url_encode}}" class="dim">
-{{ item.hp-title }}
+{{ item.hpTitle }}
             </a>
                     </article>
                     {% endfor %}

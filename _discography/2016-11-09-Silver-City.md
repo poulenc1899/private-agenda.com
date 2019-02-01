@@ -1,7 +1,7 @@
 ---
 title: "Silver City - Do You Want (Private Agenda Remix)"
-hp-title: "Do You Want"
-permalink: "/discography/Silver-City-Do-You-Want-Private-Agenda-Remix/"
+hpTitle: "Do You Want"
+
 layout: "release"
 release-date: "9th November 2016"
 label: "Catune"

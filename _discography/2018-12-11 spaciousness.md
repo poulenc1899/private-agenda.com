@@ -3,8 +3,8 @@ title: Ultramarine - Lo Recordings Spaciousness Compilation
 layout: release
 type: original
 date: 2018-12-11 11:47:57 +0000
-permalink: "/discography/Spaciousness/"
-hp-title: Ultramarine
+
+hpTitle: Ultramarine
 release-date: 16th November 2018
 label: Lo Recordings
 format: Vinyl, Digital

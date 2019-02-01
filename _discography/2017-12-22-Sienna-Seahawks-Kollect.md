@@ -1,7 +1,7 @@
 ---
 title: "Sienna (Seahawks Remix) - Needwant Kollect"
-hp-title: "Needwant Kollect"
-permalink: "/discography/Sienna-Seahawks-Remix-Needwant-Kollect/"
+hpTitle: "Needwant Kollect"
+
 layout: "release"
 release-date: "22nd December 2017"
 label: "Needwant"

@@ -1,7 +1,7 @@
 ---
 title: "Deja Vu - Sheer Rocks: Music On The Rocks, Vol 1"
-hp-title: "Music On The Rocks Vol 1"
-permalink: "/discography/Deja-Vu-Sheer-Rocks-Music-On-The-Rocks-Vol-1/"
+hpTitle: "Music On The Rocks Vol 1"
+
 layout: "release"
 release-date: "11th March 2016"
 label: "Secret Life"

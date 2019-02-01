@@ -1,7 +1,7 @@
 ---
 title: "Pork & TONY feat Private Agenda - Rhythm Ride"
-hp-title: "Rhythm Ride"
-permalink: "/discography/Pork-TONY-feat-Private-Agenda-Rhythm-Ride/"
+hpTitle: "Rhythm Ride"
+
 layout: "release"
 release-date: "3rd June 2018"
 label: "Tusk Wax"

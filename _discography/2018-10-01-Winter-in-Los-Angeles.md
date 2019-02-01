@@ -1,7 +1,7 @@
 ---
 title: "Massimiliano Pagliara feat. Private Agenda - A Winter In Los Angeles"
-hp-title: "A Winter In Los Angeles"
-permalink: "/discography/A-Winter-In-Los-Angeles/"
+hpTitle: "A Winter In Los Angeles"
+
 layout: "release"
 release-date: "30th November 2018"
 label: "Live at Robert Johnson"

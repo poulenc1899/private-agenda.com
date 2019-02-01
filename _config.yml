@@ -18,8 +18,12 @@ description: "A site description"
 lang: "en" # or fr, de, es etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://private-agenda.com" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: pretty
+
+
 plugins:
   - jekyll-sitemap
+  - jekyll-menus
 
 
 # Include styles inline or link to css file?
@@ -38,6 +42,9 @@ sass:
 collections:
  discography:
   output: true
+  permalink: /:collection/:name
+
+
 
 # Defaults
 

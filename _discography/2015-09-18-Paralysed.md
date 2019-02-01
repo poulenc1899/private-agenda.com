@@ -1,7 +1,7 @@
 ---
 title: "Paralysed / Little Bird"
-hp-title: "Paralysed / Little Bird"
-permalink: "/discography/Paralysed-Little-Bird/"
+hpTitle: "Paralysed / Little Bird"
+
 layout: "release"
 release-date: "18th September 2015"
 label: "International Feel"
