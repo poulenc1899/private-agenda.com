@@ -1,0 +1,20 @@
+<section id="selections-index" class="pa3 pa4-ns">
+
+
+    <div class="cf pa2">
+    	{% for item in site.selections %}
+        <div class="fl w-50 w-25-m w-20-l pa2">
+            <a href="{{ item.url }}" class="db link dim tc">
+                <img src="{{ item.main-image | absolute_url }}" class="w-100 db outline black-10" />
+                <dl class="mt2 f6 lh-copy">
+                    <dt class="clip">Title</dt>
+                    <dd class="ml0 black truncate w-100">{{ item.title }}</dd>
+                </dl>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+
+
+
+</section>

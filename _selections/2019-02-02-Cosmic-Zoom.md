@@ -1,0 +1,29 @@
+---
+title: "Cosmic Zoom"
+layout: "selection"
+mixcloud-link: "https://www.mixcloud.com/privateagenda/private-agenda-selections-cosmic-zoom/"
+main-image: "assets/img/2019-02-02 Cosmic Zoom.jpg"
+---
+Midway- Set It Out  
+Shirley Lites - Heat You Up (Melt You Down)  
+Hercules & Love Affair - Controller (Tuff City Kids Remix)  
+Gino Soccio - Remember  
+Voilaaa - On Te L'avait Dit (Dimitri From Paris Super Disco Instrumental)  
+Still Going - Spaghetti Circus  
+Sound Stream - Dance With Me  
+Discotheque Credits - Love Spy  
+LAARS - LySar  
+Ichisan - Fantaszia  
+Unit Black Flight - Shortwave Radio Antenna Down (Antoni Maiovvi Remix)  
+Freudenthal & Carolain Luf - So Tief - Mr BC Mix  
+Sly - I Need a Freak (Black Freak Mix)  
+Jet Set - Love Dance  
+Faze Action - I Wanna Dancer (Disco Rock Dub Mix)  
+Gary's Gang - Keep on Dancing (Todd Terje Remix)  
+V-La - Nouvelle Epoque  
+Pete Herbert - Hypnotize (Max Essa Remix)  
+Phil Gerus - Make Time  
+G.C. Records - Jump to It  
+Furor Exotica - Run Them (Alan Dente Remix)  
+Jocelyn Brown - Love's Gonna Get You (Dance Mix)  
+Soft Rocks - Talking Jungle (Justin Vandervolgen remix)  

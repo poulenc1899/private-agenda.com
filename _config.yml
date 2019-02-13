@@ -43,6 +43,9 @@ collections:
  discography:
   output: true
   permalink: /:collection/:title/
+ selections:
+  output: true
+  permalink: /:collection/:title/
 
 
 
