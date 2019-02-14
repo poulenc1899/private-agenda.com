@@ -1,7 +1,7 @@
 ---
 title: "Cosmic Zoom"
 layout: "selection"
-mixcloud-link: "https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fprivateagenda%2Fprivate-agenda-selections-cosmic-zoom%2F"
+mixcloud-embed-link: "https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fprivateagenda%2Fprivate-agenda-selections-cosmic-zoom%2F"
 main-image: "assets/img/2019-02-02 Cosmic Zoom.jpg"
 ---
 Midway- Set It Out  
