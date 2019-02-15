@@ -6,7 +6,26 @@
     </div>
     <h2 class="f3 fw4 pa3 pa5-ns mv0">A selection of mixes curated by Private Agenda.</h2>
 
-{% include selections-index.html %}
+<section id="selections-index" class="pa3 pa4-ns">
+
+
+    <div class="cf pa2">
+    	{% for item in site.selections %}
+        <div class="fl w-100 w-50-ns pa2">
+            <a href="{{ item.url }}" class="db link dim tc">
+                <img src="{{ item.main-image | absolute_url }}" class="w-100 db black-50" />
+                <dl class="mt2">
+                   
+                    <p class="f3 fw4 ml0 truncate w-100">{{ item.title }}</p>
+                </dl>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+
+
+
+</section>
 
 {% include footer-white.html %}
 
