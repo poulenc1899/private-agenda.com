@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Contact
+title: Contact Us
 menus: header
-
 ---
-
 Private Agenda are based in both London and Berlin. For bookings, remixes, collaboration or press requests, please email us at [privateagendamusic@gmail.com](mailto:privateagendamusic@gmail.com "email us").
