@@ -1,5 +1,8 @@
 ---
 layout: discography-index
 title: Discography
-menus: header
+menu:
+  header:
+    weight: 1
+
 ---

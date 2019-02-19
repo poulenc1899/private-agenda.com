@@ -2,7 +2,9 @@
 layout: live
 title: Live
 subheading: Oh, boy do we put on a show
-menus: header
+menu:
+  header:
+    weight: 4
 
 ---
 {: .f4 .lh-copy .measure .center .i}

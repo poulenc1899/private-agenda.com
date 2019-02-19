@@ -1,5 +1,8 @@
 ---
 layout: selections
 title: Selections
-menus: header
+menu:
+  header:
+    weight: 3
+
 ---
