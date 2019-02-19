@@ -9,11 +9,10 @@ sections:
   label: Discography
   create: all
   match: "**/*"
+  templates:
+  - balearic-4
 - type: jekyll-pages
   label: Pages
-  create: all
-- type: jekyll-posts
-  label: Posts
   create: all
 upload_dir: assets/img
 public_path: assets/img
