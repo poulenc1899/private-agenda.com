@@ -37,7 +37,7 @@ press_quotes:
     and inside your heart. Just so good, like they always do it.
   author: Comeherefloyd
   url: https://comeherefloyd.com/2018/11/talii-lakelands-amanda-vilkas-coats-private-agenda/
-main-image: assets/img/2019-03-28 Affection Cassette Web thumb.jpg
+main-image: assets/img/2019-03-28 Affection Cassette Web Main-1.jpg
 thumb-image: assets/img/2019-03-28 Affection Cassette Web thumb.jpg
 hp-title: Affection
 
