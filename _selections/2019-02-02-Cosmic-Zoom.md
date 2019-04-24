@@ -6,6 +6,8 @@ main-image: "assets/img/2019-02-02 Cosmic Zoom.jpg"
 ---
 Dive into the wormhole and enter our domain: an eclectic musical journey that dips into house, the strains of italo and wonky disco, fit for Barbarellas and your nearest basement.  
   
+**Tracklist**
+    
 Capeface - Rose Hips  
 Coyote - Engineered Garments (Selvy Remix)  
 Verdo - Big Fish  
