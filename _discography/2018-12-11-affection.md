@@ -3,20 +3,17 @@ title: Affection
 layout: release
 type: original
 date: 2018-12-11 11:36:32 +0000
-
 hpTitle: Affection
 release-date: 16th November 2018
 label: Nightshift
 format: Digital
 links:
-- category: 'Download'
+- category: Download
   site: Bandcamp
   url: http://private-agenda.bandcamp.com/album/affection
-- category: 'Stream'
+- category: Stream
   site: Spotify
   url: https://open.spotify.com/album/39Gp1iDJ0pYgonqufSKDdY
-
-
 tracklist:
 - title: Instinct
   duration: ''
@@ -31,18 +28,19 @@ tracklist:
   duration: ''
   src: ''
 press_quotes:
-- quote: "Groovy disco-influenced synth riffs and catchy vocals...ticks every box for what makes a catchy indie electronic track."
-  author: "Indie Shuffle"
-  url: "https://www.indieshuffle.com/private-agenda-instinct/"
-- quote: "The discotheque sensibilities, mixed in with the succulent drums, make it irresistible. You drool at the ‘perfection’ of every pitch it hits, in your ear and inside your heart. Just so good, like they always do it."
-  author: "Comeherefloyd"
-  url: "https://comeherefloyd.com/2018/11/talii-lakelands-amanda-vilkas-coats-private-agenda/"
+- quote: Groovy disco-influenced synth riffs and catchy vocals...ticks every box for
+    what makes a catchy indie electronic track.
+  author: Indie Shuffle
+  url: https://www.indieshuffle.com/private-agenda-instinct/
+- quote: The discotheque sensibilities, mixed in with the succulent drums, make it
+    irresistible. You drool at the ‘perfection’ of every pitch it hits, in your ear
+    and inside your heart. Just so good, like they always do it.
+  author: Comeherefloyd
+  url: https://comeherefloyd.com/2018/11/talii-lakelands-amanda-vilkas-coats-private-agenda/
+main-image: assets/img/2019-03-28 Affection Cassette Web thumb.jpg
+thumb-image: assets/img/2019-03-28 Affection Cassette Web thumb.jpg
 
-
-main-image: assets/img/affection-web-main.jpg
-thumb-image: assets/img/affection-web-thumb.jpg
-
---- 
+---
 The making of Affection was a real labour of love, literally. Since we started Private Agenda we’ve been trying to capture that sweet spot between the deep, beautiful romance that the best pop music conveys and that slick, fantastically referential style and production you’ll hear on records by the great indie icons of our time such as Blood Orange, Neon Indian or Toro Y Moi.
 
 {% include youtube-player.html id="DGL_UA4Q6LE" %}
