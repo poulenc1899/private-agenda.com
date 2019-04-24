@@ -39,6 +39,7 @@ press_quotes:
   url: https://comeherefloyd.com/2018/11/talii-lakelands-amanda-vilkas-coats-private-agenda/
 main-image: assets/img/2019-03-28 Affection Cassette Web thumb.jpg
 thumb-image: assets/img/2019-03-28 Affection Cassette Web thumb.jpg
+hp-title: Affection
 
 ---
 The making of Affection was a real labour of love, literally. Since we started Private Agenda we’ve been trying to capture that sweet spot between the deep, beautiful romance that the best pop music conveys and that slick, fantastically referential style and production you’ll hear on records by the great indie icons of our time such as Blood Orange, Neon Indian or Toro Y Moi.
