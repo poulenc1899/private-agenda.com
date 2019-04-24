@@ -38,7 +38,7 @@ press_quotes:
   author: Comeherefloyd
   url: https://comeherefloyd.com/2018/11/talii-lakelands-amanda-vilkas-coats-private-agenda/
 main-image: assets/img/2019-03-28 Affection Cassette Web Main-1.jpg
-thumb-image: assets/img/2019-03-28 Affection Cassette Web thumb.jpg
+thumb-image: assets/img/2019-03-28_Affection_Cassette_Web_thumb.jpg
 hp-title: Affection
 
 ---
