@@ -4,6 +4,8 @@ layout: "selection"
 mixcloud-embed-link: "https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fprivateagenda%2Fprivate-agenda-selections-cosmic-zoom%2F"
 main-image: "assets/img/2019-02-02 Cosmic Zoom.jpg"
 ---
+Dive into the wormhole and enter our domain: an eclectic musical journey that dips into house, the strains of italo and wonky disco, fit for Barbarellas and your nearest basement.  
+  
 Capeface - Rose Hips  
 Coyote - Engineered Garments (Selvy Remix)  
 Verdo - Big Fish  

@@ -4,6 +4,8 @@ layout: "selection"
 mixcloud-embed-link: "https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fprivateagenda%2Fon-te-lavait-dit%2F"
 main-image: "assets/img/2019-02-02 On Te L'avait Dit.jpg"
 ---
+Disco, disco, disco, disco. Fit for all shapes and sizes.  
+
 Midway- Set It Out  
 Shirley Lites - Heat You Up (Melt You Down)  
 Hercules & Love Affair - Controller (Tuff City Kids Remix)  
