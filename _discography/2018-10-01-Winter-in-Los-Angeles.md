@@ -4,7 +4,7 @@ hpTitle: A Winter In Los Angeles
 layout: release
 release-date: 30th November 2018
 label: Live at Robert Johnson
-format: Digital
+format: Digital / Vinyl
 type: collaboration
 links:
 - category: Stream
@@ -12,6 +12,7 @@ links:
   url: https://soundcloud.com/live-at-robert-johnson/massimiliano-pagliara-a-winter
 main-image: assets/img/Discography-Cover_WinterinLA_2200.jpg
 thumb-image: assets/img/Discography-Cover_WinterinLA_thumb.jpg
+hp-title: A Winter in Los Angeles
 
 ---
 If you make electronic music of any kind, you’ll want your music to be played on Tim Sweeney’s [Beats in Space](http://www.beatsinspace.net/). For nearly twenty years it’s been a real arbiter of taste, so we were beaming when Massimiliano Pagliara, a resident at Berlin’s Panorama Bar played ‘Dawn’, a beatless downtempo track from our release with [NuNorther Soul](http://www.nunorthernsoul.co.uk/).
