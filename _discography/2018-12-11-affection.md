@@ -6,7 +6,7 @@ date: 2018-12-11 11:36:32 +0000
 hpTitle: Affection
 release-date: 16th November 2018
 label: Nightshift
-format: Digital
+format: Digital / Cassette
 links:
 - category: Download
   site: Bandcamp
