@@ -41,3 +41,5 @@ Recent Shows
 26.09.18 - Soho House (Berlin, DE) DJ  
 21.11.18 - Zum böhmischen Dorf (Berlin, DE) LIVE  
 24.11.18 - Robert Johnson (Offenbach, DE) LIVE
+14.02.19 - OOX @ Fez (Cambridge, UK) DJ
+23.02.19 - Discoteque Credits @ The Gun (London, UK) DJ
