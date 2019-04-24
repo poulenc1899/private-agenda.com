@@ -124,7 +124,7 @@ fields:
   type: file
   hidden: false
   default: ''
-  description: Main header image for release page (1440 × 903px, .jpg)
+  description: Main header image for release page (2200 × 1400px, .jpg)
 - name: thumb-image
   label: Thumb image
   type: file
