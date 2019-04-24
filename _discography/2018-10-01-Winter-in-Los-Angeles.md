@@ -10,8 +10,8 @@ links:
 - category: Stream
   site: Soundcloud
   url: https://soundcloud.com/live-at-robert-johnson/massimiliano-pagliara-a-winter
-main-image: assets/img/Discography-Cover_WinterinLA_2200.jpg
-thumb-image: assets/img/Discography-Cover_WinterinLA_thumb.jpg
+main-image: assets/img/2019-03-28_Feel_Live_Web_Main.jpg
+thumb-image: assets/img/2019-03-28_Feel_Live_Web_Thumb.jpg
 hp-title: A Winter in Los Angeles
 
 ---
