@@ -47,7 +47,7 @@ collections:
   output: true
   permalink: /:collection/:title/
 
-
+incremental: true
 
 # Defaults
 
