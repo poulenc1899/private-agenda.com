@@ -6,6 +6,9 @@ menu:
     weight: 2
 
 ---
+{:normal-para: .f4 .lh-copy .measure .center .ph3}  
+{:pullquote: .ph3 .f3 .f1-ns .measure-narrow .center .fw9 .lh-copy .lh-title-ns}
+
 {: .ph3 .f4 .lh-copy .measure .center .i}
 Photo by Marius Knieling
 
