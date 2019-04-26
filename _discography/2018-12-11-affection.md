@@ -8,6 +8,9 @@ release-date: 16th November 2018
 label: Nightshift
 format: Digital / Cassette
 links:
+- category: ''
+  site: Bandcamp
+  url: https://private-agenda.bandcamp.com/album/affection
 - category: Download
   site: Bandcamp
   url: http://private-agenda.bandcamp.com/album/affection
