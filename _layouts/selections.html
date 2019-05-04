@@ -6,12 +6,21 @@
 <section id="selections-index" class="pa3 pa4-ns">
 
 
-    <div class="cf pa2">
-    	{% for item in site.selections %}
-        <div class="fl w-100 w-50-ns pa2">
+    <div class="cf pa2 mw8 center">
+    	{% for item in site.selections reversed %}
+        <div class="w-100 fl pa2">
+            <div class="w-50 fl">
             <a href="{{ item.url }}" class="db link dim tc">
                 <img src="{{ item.main-image | absolute_url }}" class="w-100 db black-50" />
+                
             </a>
+        </div>
+        <div class="w-50 fl pt5">
+            
+            <iframe width="100%" height="120" src="{{ item.mixcloud-embed-link }}" frameborder="0" ></iframe>
+            <p>{{ item.description }}</p>
+            <p class=""><a href="{{ item.url }}" class="db link dim">Full tracklist for {{ item.title }}</a></p>
+        </div>
         </div>
         {% endfor %}
     </div>

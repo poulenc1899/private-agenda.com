@@ -1,12 +1,10 @@
 ---
 title: "After Dinner Mints"
 layout: "selection"
-mixcloud-embed-link: "https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fprivateagenda%2Fafter-dinner-mints%2F"
+mixcloud-embed-link: "https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=true&hide_artwork=true&feed=%2Fprivateagenda%2Fafter-dinner-mints%2F"
 main-image: "assets/img/2019-05-04 After Dinner Mints.jpg"
+description: "An hour’s pick n’ mix of sweet and salty treats: there’s recent funk oddities to taste at the top of the bag a few, disco lollipops in the middle,  but dig a little deeper and you’ll find some headier, psychedelic morsels..."
 ---
-An hour’s pick n’ mix of sweet and salty treats: there’s recent funk oddities to taste at the top of the bag a few, disco lollipops in the middle,  but dig a little deeper and you’ll find some headier, psychedelic morsels...  
-
-  
 **Tracklist**
   
 Jules Etienne - Dude’s Den  

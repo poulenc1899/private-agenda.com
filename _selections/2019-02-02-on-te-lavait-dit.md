@@ -1,11 +1,10 @@
 ---
 title: "On Te L'avait Dit"
 layout: "selection"
-mixcloud-embed-link: "https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fprivateagenda%2Fon-te-lavait-dit%2F"
+mixcloud-embed-link: "https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=true&hide_artwork=true&feed=%2Fprivateagenda%2Fon-te-lavait-dit%2F"
 main-image: "assets/img/2019-02-02 On Te L'avait Dit.jpg"
+description: "Disco, disco, disco, disco. Fit for all shapes and sizes."
 ---
-Disco, disco, disco, disco. Fit for all shapes and sizes.  
-  
 **Tracklist**
   
 Midway- Set It Out  

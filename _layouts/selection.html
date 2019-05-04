@@ -5,11 +5,13 @@
     {{ page.title }}
 </div>
 
-<article class="w-100 pa3 pa5-ns min-vh-100">
+<article class="w-100 ph0 min-vh-100">
 	<div class="mw8 center dark-gray f4 lh-copy measure">
-    <!--<img src="{{ page.main-image | absolute_url }}" class="w-100 db black-50" />-->
+    <p>{{ page.description }}</p>
+    <img src="{{ page.main-image | absolute_url }}" class="w-100 center" />
 		<iframe width="100%" height="120" src="{{ page.mixcloud-embed-link }}" frameborder="0" ></iframe>
-    {{ content}}
+	
+	<p>{{ content }}</p>
 </div>
 </article>
 
