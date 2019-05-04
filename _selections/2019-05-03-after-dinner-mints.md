@@ -9,15 +9,15 @@ An hour’s pick n’ mix of sweet and salty treats: there’s recent funk oddit
   
 **Tracklist**
   
-Jules Etienne - Dude’s Den
-Jura Soundsystem - Udaberri Blues
-Gooch - Sterjen
-Dawn Again & Rothmans - Timeless Odyssey
-Fred Everything - Barbarella (7am in Tisno Dub)
-James Booth - Roller Chrome
-Cya - Somethin’ Sanctified 
-Biodive - 40 Now
-Luminodisco - Oh Mary (Torske's Lange Kleggsommer Dub)
-Mildlife - How Long Does it Take? (Baldelli & Diongi Remix)
-Autarkic - Treble Rebel
-The Juan Maclean - Everywhere at Once
+Jules Etienne - Dude’s Den  
+Jura Soundsystem - Udaberri Blues  
+Gooch - Sterjen  
+Dawn Again & Rothmans - Timeless Odyssey  
+Fred Everything - Barbarella (7am in Tisno Dub)  
+James Booth - Roller Chrome  
+Cya - Somethin’ Sanctified   
+Biodive - 40 Now  
+Luminodisco - Oh Mary (Torske's Lange Kleggsommer Dub)  
+Mildlife - How Long Does it Take? (Baldelli & Diongi Remix)  
+Autarkic - Treble Rebel  
+The Juan Maclean - Everywhere at Once  
