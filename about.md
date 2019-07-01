@@ -13,6 +13,10 @@ menu:
 Photo by Marius Knieling
 
 {: normal-para}  
+[Download logo pack](https://www.dropbox.com/sh/bgb583ag52pp0td/AAC3K_0QaFoUrcyyd8bwqnnNa?dl=1 "Private Agenda logo pack")
+[Download press shots](https://www.dropbox.com/sh/8qeeatpm5kgj51f/AAB5VYp3fZSpGKnj5unHF--Sa?dl=1 "press shots")
+
+{: normal-para}  
 **Private Agenda create music to reminisce to, in a variety of shades, from their studios in London and Berlin.**
 
 {: normal-para}  
