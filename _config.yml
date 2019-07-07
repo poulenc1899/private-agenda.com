@@ -30,7 +30,7 @@ plugins:
 # This has to be set to css: inline for the theme to inline styles
 # Set it to anything else, or remove it, to link to /css/style.class
 
-css: inline
+# css: inline
 
 
 # Build settings

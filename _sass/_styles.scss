@@ -13,3 +13,11 @@
 
 */
 
+::-moz-selection {
+    background: rgba(113, 190, 180, 0.99);
+    color: #000;
+}
+::selection {
+    background: rgba(113, 190, 180, 0.99);
+    color: #000;
+}

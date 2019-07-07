@@ -1,38 +1,39 @@
 {% include head.html %} {% include nav-floating.html %}
 <main class="w-100 bg-white">
-    <section id="Masthead" class="w-100 c-vh-150 relative overflow-hidden">
+    <section id="Masthead" class="w-100 c-vh-150 relative overflow-hidden" style="pointer-events: none">
 
         <div id="Layer-zero" class="vh-100 absolute top-0 right-0 left-0">
         </div>
         <div id="Layer-four" class="absolute top-0 right-0 left-0 pa4-ns pa0">
             <div class="vh-100 vh-50-m dn-l"></div>
             <div class="fr w-50-l w-75-m w-100 mt6 pt4 relative" data-scroll-speed="4">
-                <img class="w-100" src="{{ page.featured-press-img }}">
+                <img class="w-100" src="{{ page.featured-press-img }}" alt="{{ page.featured-press-img-text }}" title="{{ page.featured-press-img-text }}" style="pointer-events: auto">
             </div>
         </div>
         <div id="Layer-one" class="absolute top-0 right-0 left-0 ph1 ph5-ns pv5">
-            <div class="fl w-third-l w-75-m w-100 pv4-ns pv6" data-scroll-speed="1">
+            <div class="fl w-third-l w-75-m w-100 pv4-ns pv6" data-scroll-speed="1" style="pointer-events: auto">
                 <img class="w-100" src="assets/img/PA-Grid-1800.png">
             </div>
         </div>
         <div id="Layer-two" class="absolute top-0 right-0 left-0 pa4-ns pa0">
             <div class="dn-ns db vh-25"></div>
-            <div class="fl w-50-l w-75-m w-100 mt7 mt3-m pt5" data-scroll-speed="9">
-                <a href="{{ page.featured-discography-link }}"><img class="w-100" src="{{ page.featured-discography }}"></a>
+            <div class="fl w-50-l w-75-m w-100 mt7 mt3-m pt5" data-scroll-speed="9" style="pointer-events: auto">
+                <a href="{{ page.featured-discography-link }}"><img class="w-100" src="{{ page.featured-discography }}" alt="{{ page.featured-discography-text }}" title="{{ page.featured-discography-text }}"></a>
             </div>
         </div>
         <div id="Layer-three" class="absolute top-0 right-0 left-0 ph1 ph5-ns pv5">
-            <div class="fl w-third-l w-75-m w-100 pv4-ns pv6" data-scroll-speed="1">
+            <div class="fl w-third-l w-75-m w-100 pv4-ns pv6" data-scroll-speed="1" style="pointer-events: auto">
                 <img class="w-100" src="assets/img/PA-Grid-2800.png">
             </div>
         </div>
         <div id="Layer-five" class="absolute top-0 right-0 left-0 pa5-ns pa0 db-l">
             <div class="vh-100"></div>
-            <div class="fr w-two-thirds-l w-100" data-scroll-speed="8">
-                
+            <div class="fr w-two-thirds-l w-100" data-scroll-speed="8" style="pointer-events: auto">
+                     <a href="{{ page.featured-video-link }}" alt="{{ page.featured-video-text }}" title="{{ page.featured-video-text }}">
                     <video muted loop autoplay name="media" class="w-100">
-                    <source src="{{ page.featured-video }}" type="video/mp4">
+                    <source src="{{ page.featured-video }}" type="video/mp4" >
                 </video>
+            </a>
                 
             </div>
         </div>
