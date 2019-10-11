@@ -13,7 +13,8 @@ Photo by Mark Phillips
 {: .measure .ph3 .ph5-ns .helvetica .fw5 .ttu .f4}
 Recent Shows
 
-{:.f4 .lh-copy .measure .center} 25.01.17 - Phoenix (Exeter, UK) LIVE  
+{:.f4 .lh-copy .measure .center}   
+25\.01.17 - Phoenix (Exeter, UK) LIVE  
 15\.02.17 - Moth Club, (London, UK) LIVE  
 16\.02.17 - The Lexington (London, UK) DJ  
 11\.03.17 - Sameheads (Berlin, DE) DJ  
