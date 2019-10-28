@@ -29,5 +29,4 @@ For Max, the tone of the record rekindled “memories of an overnight ferry from
 
 Mark Barrott’s work proved a little more introverted, living “in the palace of the listener’s mind, at 4am in the morning in the quiet nature of the night”, reflecting the deeply personal connection we have to the many places of our pasts.
 
-  
-[https://www.youtube.com/watch?v=SEPAJ2qfqbQ](https://www.youtube.com/watch?v=SEPAJ2qfqbQ "https://www.youtube.com/watch?v=SEPAJ2qfqbQ")
+{% include youtube-player.html id="[SEPAJ2qfqbQ](https://www.youtube.com/watch?v=SEPAJ2qfqbQ "https://www.youtube.com/watch?v=SEPAJ2qfqbQ")" %}
