@@ -1,6 +1,5 @@
 ---
 layout: release
-permalink: "/discography/"
 type: collaboration
 title: Perfume
 hp-title: Perfume
