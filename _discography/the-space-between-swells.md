@@ -1,6 +1,5 @@
 ---
 layout: release
-permalink: "/discography/"
 type: collaboration
 title: The Space Between Swells
 hp-title: The Space Between Swells

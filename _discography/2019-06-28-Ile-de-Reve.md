@@ -2,7 +2,7 @@
 title: Île de Rêve
 layout: release
 type: original
-date: 2019-06-28
+date: '2019-06-28'
 hpTitle: Île de Rêve
 release-date: 28th June 2019
 label: Lo Recordings
@@ -18,6 +18,7 @@ tracklist: []
 press_quotes: []
 main-image: assets/img/Discography-Cover_Ile-de-Reve_2200.jpg
 thumb-image: assets/img/Discography-Cover_Ile-de-Reve_thumb.jpg
+hp-title: Île de Rêve
 
 ---
 What on earth is Île de Rêve?
