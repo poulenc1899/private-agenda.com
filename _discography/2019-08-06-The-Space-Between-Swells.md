@@ -27,3 +27,5 @@ In this pursuit, we invited [Max Essa](https://www.discogs.com/artist/673330-Max
 For Max, the tone of the record rekindled “memories of an overnight ferry from Barcelona to Ibiza circa 1989, the Okinawan island of Ishigaki on a July evening by the ocean a couple of years ago and tatami room at Bar Bonobo in Tokyo at 6am on a Sunday morning”. All those positive years of island-hopping and party-going proving the abiding memory. The island as utopia, perhaps.
 
 Mark Barrott’s work proved a little more introverted, living “in the palace of the listener’s mind, at 4am in the morning in the quiet nature of the night”, reflecting the deeply personal connection we have to the many places of our pasts.
+
+{% include youtube-player.html id="dyHLCShVqc4" %}
