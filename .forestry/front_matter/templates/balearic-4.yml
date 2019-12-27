@@ -131,6 +131,3 @@ fields:
   hidden: false
   default: ''
   description: thumbnail image for homepage (800 × 502px, .jpg)
-pages:
-- _discography/perfume.md
-- _discography/the-space-between-swells.md
