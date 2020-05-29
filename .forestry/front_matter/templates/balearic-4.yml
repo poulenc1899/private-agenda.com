@@ -131,3 +131,5 @@ fields:
   hidden: false
   default: ''
   description: thumbnail image for homepage (800 × 502px, .jpg)
+pages:
+- _discography/above-the-ocean-private-agenda-remix.md
