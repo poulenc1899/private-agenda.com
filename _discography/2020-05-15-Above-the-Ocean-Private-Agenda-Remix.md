@@ -2,7 +2,7 @@
 layout: release
 type: collaboration
 title: Above the Ocean (Private Agenda Remix)
-hp-title: Above the Ocean
+hptitle: Above the Ocean
 release-date: 15th May 2020
 label: Radicalis
 format: Digital
