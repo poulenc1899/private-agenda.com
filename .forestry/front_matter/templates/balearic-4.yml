@@ -13,7 +13,8 @@ fields:
   type: text
   hidden: false
   default: ''
-  description: The full release title e.g. "Balearic 4"
+  description: The full release title e.g. "Balearic 4". When creating new discography
+    item this should be prefixed by the date in yyyy-mm-dd- form.
 - name: permalink
   label: Permalink
   type: text
