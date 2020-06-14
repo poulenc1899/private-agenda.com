@@ -12,8 +12,9 @@ press_quotes:
 - quote: Gorgeous
   author: Jaguar (BBC Radio 1/BBC 1xtra)
   url: ''
-main-image: assets/img/above-remix-cover-grassetto-small.png
-thumb-image: assets/img/above-remix-cover-grassetto-small.jpg
+main-image: assets/img/2020-06-14-above-the-ocean.jpg
+thumb-image: assets/img/2020-06-14-above-the-ocean-thumb.jpg
+hptitle: ''
 
 ---
 There are many approaches you can take when making a remix. To some, it’s the art of tweaking the existing composition, possibly extending the work for the dancefloor; to others it’s wiping the slate clean, composing something entirely new with a unique stamp pressed onto a few original features. Both can work wonders, but more often than not, artists are treading a careful balance between these approaches to find that magical middle ground. 
