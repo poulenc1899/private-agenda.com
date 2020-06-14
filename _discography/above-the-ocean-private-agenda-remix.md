@@ -15,7 +15,6 @@ press_quotes:
   url: ''
 main-image: assets/img/above-remix-cover-grassetto-small.png
 thumb-image: assets/img/above-remix-cover-grassetto-small.jpg
-published: false
 
 ---
 There are many approaches you can take when making a remix. To some, it’s the art of tweaking the existing composition, possibly extending the work for the dancefloor; to others it’s wiping the slate clean, composing something entirely new with a unique stamp pressed onto a few original features. Both can work wonders, but more often than not, artists are treading a careful balance between these approaches to find that magical middle ground. 
