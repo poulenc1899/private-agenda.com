@@ -1,6 +1,5 @@
 ---
 layout: release
-permalink: "/discography/"
 type: collaboration
 title: Above the Ocean (Private Agenda Remix)
 hp-title: Above the Ocean
