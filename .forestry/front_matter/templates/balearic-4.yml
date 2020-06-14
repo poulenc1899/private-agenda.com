@@ -132,5 +132,5 @@ fields:
   default: ''
   description: thumbnail image for homepage (800 × 502px, .jpg)
 pages:
+- _discography/2019-12-06-Do-It-Thin.md
 - _discography/above-the-ocean-private-agenda-remix.md
-- _discography/do-it-thin.md
