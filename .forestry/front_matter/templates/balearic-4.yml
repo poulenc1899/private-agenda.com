@@ -15,12 +15,6 @@ fields:
   default: ''
   description: The full release title e.g. "Balearic 4". When creating new discography
     item this should be prefixed by the date in yyyy-mm-dd- form.
-- name: permalink
-  label: Permalink
-  type: text
-  hidden: false
-  default: "/discography/"
-  description: the page address e.g. "/discography/Balearic-4/"
 - name: hp-title
   label: Hp title
   type: text
