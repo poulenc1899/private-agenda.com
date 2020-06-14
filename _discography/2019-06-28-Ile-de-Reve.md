@@ -16,8 +16,8 @@ links:
   site: Spotify
 tracklist: []
 press_quotes: []
-main-image: assets/img/Discography-Cover_Ile-de-Reve_2200.jpg
-thumb-image: assets/img/Discography-Cover_Ile-de-Reve_thumb.jpg
+main-image: assets/img/2020-06-14-ile-de-reve.jpg
+thumb-image: assets/img/2020-06-14-ile-de-reve-thumb.jpg
 hp-title: Île de Rêve
 
 ---
