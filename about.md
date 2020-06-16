@@ -25,11 +25,6 @@ In their teen years, Sean Phillips and Martin Aggrowe dipped in and out of music
 {: normal-para}  
 In a creative industry obsessed with labels and labelling, it was the discovery of the eclectic music and fashion culture of the late 1980s ‘Balearic Beat’ – a world where Talking Heads, Mark Isham and The Human League could be uttered in the same sentence – and a site where consciously forward-thinking production and stylistic sensibilities with deep roots in the electronic music underground were coupled with unabashed reverence for melody and pop songwriting. It was the musical culture of an island the pair had never set foot upon that would give the pair’s collaborative work a referential framework.
 
-{% include youtube-player.html id="ngep8Uwk5dw" %}
-
-{: .ph3 .f4 .lh-copy .measure .center .i}   
-Aura
-
 {: normal-para}  
 The pair have embarked on a scopious musical journey releasing music on iconic indie labels such as International Feel, Lo Recordings (Aphex Twin, Grimes), Wall of Sound (Grace Jones, Röyksopp) and Live at Robert Johnson (Fort Romeau, Roman Flügel), collaborating with artists such as Berghain resident Massimiliano Pagliara, attracting remixes from artists such as Tuff City Kids and Andy Butler (Hercules and Love Affair) and taking their live show on tour with emerging talents like Parcels (Kitsune) and Park Hotel, attracting admirers in the electronic music underground and the mainstream music industry alike.
 
