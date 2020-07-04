@@ -2,7 +2,7 @@
 layout: release
 type: original
 title: Test Release
-hptitle: TEST
+hpTitle: TEST
 release-date: 3rd July 2020
 label: Nightshft
 format: Vinyl
