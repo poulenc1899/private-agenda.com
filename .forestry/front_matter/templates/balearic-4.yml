@@ -126,5 +126,3 @@ fields:
   hidden: false
   default: ''
   description: thumbnail image for homepage (800 × 502px, .jpg)
-pages:
-- _discography/2020-07-04 test-release.md
