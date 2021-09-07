@@ -86,4 +86,4 @@ defaults:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 
-exclude: [node_modules, gulpfile.js, Gemfile, Gemfile.lock, package.json, s3_website.yml, TODO, LICENCE, README.me]
+exclude: [node_modules, gulpfile.js, Gemfile, Gemfile.lock, package.json, s3_website.yml, TODO, LICENCE, README.me, vendor]
