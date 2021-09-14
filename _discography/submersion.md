@@ -15,7 +15,7 @@ thumb-image: assets/img/img_1102.jpg
 hptitle: Submersion
 
 ---
-**Submersion** is a collection of re-compositions – a series of musical deep dives – by six of downtempo music’s most exciting emerging and established artists. It’s also a closing chapter to **Île de Rêve**, or an ‘island of dreams’ – the audio-visual project from which Private Agenda’s debut album first emerged, with each track a re-imagination of material from that record.
+**Submersion** is a collection of re-compositions – a series of musical deep dives – by six of downtempo music’s most exciting emerging and established artists. It’s also a closing chapter to **Île de Rêve**, or an ‘island of dreams’, the audio-visual project from which Private Agenda’s debut album first emerged.
 
 On **Île de Rêve**, the warm, yet beguiling allure of islands acted as a musical and visual reference for storytelling. Whilst that record was defined by a compositional minimalism, containing no featuring performances on it for instance, it was a project that was conceived as a conceptual canvas upon which other artists could draw.
 
