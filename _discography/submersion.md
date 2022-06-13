@@ -2,7 +2,7 @@
 layout: release
 type: collaboration
 title: Submersion
-hpTitle: The Space Between Swells
+hpTitle: Submersion
 date: '2019-08-06'
 release-date: 21st May 2021
 label: Lo Recordings
