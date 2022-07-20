@@ -43,6 +43,7 @@ collections:
  discography:
   output: true
   permalink: /:collection/:title/
+  sort_by: release-date
  selections:
   output: true
   permalink: /:collection/:title/
