@@ -1,7 +1,7 @@
 ---
 title: "Dusk & Dawn"
 hpTitle: "Dusk & Dawn"
-
+date: 2017-12-01
 layout: "release"
 release-date: "1st December 2017"
 label: "NuNorthern Soul"

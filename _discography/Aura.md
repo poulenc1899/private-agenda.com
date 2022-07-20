@@ -2,7 +2,7 @@
 title: Aura
 layout: release
 type: original
-date: '2019-06-07'
+date: 2019-06-07
 hpTitle: Aura
 release-date: 7th June 2019
 label: Lo Recordings

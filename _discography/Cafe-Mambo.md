@@ -1,7 +1,7 @@
 ---
 title: "Freefalling - Cafe Mambo Sunsets"
 hpTitle: "Cafe Mambo Sunsets"
-
+date: 2015-08-07
 layout: "release"
 release-date: "7th August 2015"
 label: "Universal Music"

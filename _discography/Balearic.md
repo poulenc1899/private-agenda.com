@@ -1,9 +1,9 @@
 ---
 title: "Balearic 4"
 hpTitle: "Balearic 4"
-
 layout: "release"
 release-date: "1st July 2018"
+date: 2018-07-01
 label: "Balearic"
 format: "Vinyl 12-inch, Digital"
 type: "compilation"

@@ -2,7 +2,7 @@
 
 title: "Déjà Vu / Freefalling"
 hpTitle: "Déjà Vu / Freefalling"
-
+date: 2015-02-23
 layout: "release-prototype"
 release-date: "23rd February 2015"
 label: "International Feel"

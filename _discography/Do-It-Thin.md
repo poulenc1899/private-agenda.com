@@ -4,6 +4,7 @@ type: collaboration
 title: Do It Thin
 hpTitle: Do It Thin
 release-date: 6th December 2019
+date: 2019-12-06
 label: Skint
 format: Vinyl, Digital
 links: []
@@ -14,7 +15,6 @@ press_quotes:
   author: PBR Streetgang
 main-image: assets/img/2020-06-14-do-it-thin.jpg
 thumb-image: assets/img/2020-06-14-do-it-thinthumb.jpg
-hptitle: ''
 
 ---
 Around the time we were gearing up to put out our first single as Private Agenda, Geoff Kirkwood aka [Man Power](https://www.residentadvisor.net/dj/manpower) was already blazing a trail around some of Berlin’s most exciting underground clubs with his wild mix of house and techno, carried off in a sublime yet slightly ridiculous fashion... just as dance music should be really.  His debut full length album on [Correspondant](https://www.residentadvisor.net/record-label.aspx?id=6259) remains one of our favourite of the last few years, innovative yet fun in equal measure. 

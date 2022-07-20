@@ -4,6 +4,7 @@ type: collaboration
 title: Above the Ocean (Private Agenda Remix)
 hpTitle: Above the Ocean
 release-date: 15th May 2020
+date: 2020-05-15
 label: Radicalis
 format: Digital
 links: []
@@ -14,7 +15,6 @@ press_quotes:
   url: ''
 main-image: assets/img/2020-06-14-above-the-ocean.jpg
 thumb-image: assets/img/2020-06-14-above-the-ocean-thumb.jpg
-hptitle: ''
 
 ---
 There are many approaches you can take when making a remix. To some, it’s the art of tweaking the existing composition, possibly extending the work for the dancefloor; to others it’s wiping the slate clean, composing something entirely new with a unique stamp pressed onto a few original features. Both can work wonders, but more often than not, artists are treading a careful balance between these approaches to find that magical middle ground. 
