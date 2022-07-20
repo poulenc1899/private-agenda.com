@@ -1,7 +1,7 @@
 ---
 title: "Primary Colours"
 hpTitle: "Primary Colours"
-
+date: 2017-09-29
 layout: "release"
 release-date: "29th September 2017"
 label: "Needwant"

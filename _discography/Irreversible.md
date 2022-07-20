@@ -1,7 +1,7 @@
 ---
 title: "Fhin - Irréversible (Private Agenda Remix)"
 hpTitle: "Irréversible"
-
+date: 2018-10-06
 layout: "release"
 release-date: "6th October 2018"
 label: "Delicieuse"

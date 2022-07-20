@@ -3,6 +3,7 @@ title: Massimiliano Pagliara feat. Private Agenda - A Winter In Los Angeles
 hpTitle: A Winter In Los Angeles
 layout: release
 release-date: 30th November 2018
+date: 2018-11-30
 label: Live at Robert Johnson
 format: Digital / Vinyl
 type: collaboration

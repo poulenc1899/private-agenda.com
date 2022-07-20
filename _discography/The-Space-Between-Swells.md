@@ -3,7 +3,7 @@ layout: release
 type: collaboration
 title: The Space Between Swells
 hpTitle: The Space Between Swells
-date: '2019-08-06'
+date: 2019-08-06
 release-date: 6th August 2019
 label: Lo Recordings
 format: Digital

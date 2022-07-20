@@ -1,7 +1,7 @@
 ---
 title: "Paralysed / Little Bird"
 hpTitle: "Paralysed / Little Bird"
-
+date: 2015-09-18
 layout: "release"
 release-date: "18th September 2015"
 label: "International Feel"

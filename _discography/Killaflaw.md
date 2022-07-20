@@ -1,7 +1,7 @@
 ---
 title: "Killaflaw - Message (Private Agenda Remix)"
 hpTitle: "Message"
-
+date: 2016-03-04
 layout: "release"
 release-date: "4th March 2016"
 label: "Wall of Sound"

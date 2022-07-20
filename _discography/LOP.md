@@ -1,7 +1,7 @@
 ---
 title: "Life on Planets - Denali (Private Agenda Remix)"
 hpTitle: "Denali"
-
+date: 2016-07-22
 layout: "release"
 release-date: "22nd July 2016"
 label: "Better on Foot"

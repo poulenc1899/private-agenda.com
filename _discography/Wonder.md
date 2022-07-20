@@ -1,7 +1,7 @@
 ---
 title: "Clandestino - Wonder (feat. Private Agenda)"
 hpTitle: "Wonder"
-
+date: 2016-08-08
 layout: "release"
 release-date: "8th August 2016"
 label: "Clandestino"

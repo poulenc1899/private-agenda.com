@@ -1,7 +1,7 @@
 ---
 title: "Texture"
 hpTitle: "Texture"
-
+date: 2017-08-28
 layout: "release"
 release-date: "28th August 2017"
 label: "Last Gas Station"

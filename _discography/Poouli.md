@@ -1,7 +1,7 @@
 ---
 title: "Daniele Baldelli & DJ Rocca - Poouli (Private Agenda Sunrise Remix)"
 hpTitle: "Poouli"
-
+date: 2017-07-28
 layout: "release"
 release-date: "28th July 2017"
 label: "Real Balearic"

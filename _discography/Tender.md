@@ -1,7 +1,7 @@
 ---
 title: "Tender"
 hpTitle: "Tender"
-
+date: 2017-04-19
 layout: "release"
 release-date: "19th April 2017"
 label: "Royal Athlete"

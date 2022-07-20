@@ -1,7 +1,7 @@
 ---
 title: "Deja Vu - Sheer Rocks: Music On The Rocks, Vol 1"
 hpTitle: "Music On The Rocks Vol 1"
-
+date: 2016-03-11
 layout: "release"
 release-date: "11th March 2016"
 label: "Secret Life"

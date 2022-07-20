@@ -1,7 +1,7 @@
 ---
 title: "Full Moon"
 hpTitle: "Full Moon"
-
+date: 2016-06-15
 layout: "release"
 release-date: "15th June 2016"
 label: "Nightshift"

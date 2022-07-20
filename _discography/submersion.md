@@ -3,7 +3,7 @@ layout: release
 type: collaboration
 title: Submersion
 hpTitle: Submersion
-date: '2019-08-06'
+date: 2021-05-21
 release-date: 21st May 2021
 label: Lo Recordings
 format: Digital / Physical
