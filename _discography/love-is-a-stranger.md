@@ -1,6 +1,6 @@
 ---
 layout: release
-type: remix
+type: collaboration
 title: Love is a Stranger
 hpTitle: Love is a Stranger
 release-date: 6th May 2019
