@@ -38,21 +38,18 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: type-old
-  label: Type-old
-  type: text
-  hidden: false
-  default: original
-  description: either "original", "remix", "collaboration" or "compilation" (choose
-    one)
 - name: type
   type: select
-  default: []
+  default: ''
   config:
     required: false
-    options: []
+    options:
+    - original
+    - compilation
+    - remix
+    - collaboration
     source:
-      type: pages
+      type: simple
       section: discography
       file: 
       path: 
