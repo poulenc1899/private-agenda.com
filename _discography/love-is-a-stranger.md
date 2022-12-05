@@ -2,7 +2,7 @@
 layout: release
 type: remix
 title: Love is a Stranger
-hptitle: '"Love is a Stranger"'
+hpTitle: Love is a Stranger
 release-date: 6th May 2019
 date: 2020-05-06
 label: LAGASTA
