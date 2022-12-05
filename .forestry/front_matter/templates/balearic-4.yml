@@ -15,7 +15,7 @@ fields:
   default: ''
   description: The full release title e.g. "Balearic 4". When creating new discography
     item this should be prefixed by the date in yyyy-mm-dd- form.
-- name: hptitle
+- name: hpTitle
   label: Hp title
   type: text
   hidden: false
