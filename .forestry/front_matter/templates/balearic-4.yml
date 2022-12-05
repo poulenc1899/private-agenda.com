@@ -59,17 +59,41 @@ fields:
   type: field_group_list
   fields:
   - name: category
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Buy Digital
+      - Buy Physical
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
     label: Category
-    type: tag_list
-    hidden: false
-    default: ''
-    description: The text of the link e.g. "Buy Digital"
   - name: site
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Spotify
+      - Bandcamp
+      - Soundcloud
+      - Apple Music
+      - Juno Download
+      - Phonica
+      - Rough Trade
+      - Amazon
+      - HHV
+      - an online store...
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
     label: Site
-    type: text
-    hidden: false
-    default: ''
-    description: The name of the shop or website e.g. "Boomkat"
   - name: url
     label: Url
     type: textarea
