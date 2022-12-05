@@ -14,7 +14,6 @@ tracklist: []
 press_quotes: []
 main-image: assets/img/a3587738719_10.jpeg
 thumb-image: assets/img/a3587738719_16.jpeg
-published: false
 
 ---
 So, we’re not ‘anti-covers’ per se, but we don’t often go there…. particularly when it comes to reworking the music that is most special to you. But LAGASTA’s request – to recreate some of their favourite music for their tenth anniversary – was a request we couldn’t turn down. After all, they have supported us right from the outset (and even booked us for our very first London show).
