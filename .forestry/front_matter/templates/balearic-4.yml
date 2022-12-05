@@ -1,11 +1,12 @@
 ---
 label: Discography Item
 hide_body: false
+display_field: hpTitle
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: release
   description: leave as "release" most of the time
 - name: title
@@ -16,7 +17,7 @@ fields:
   description: The full release title e.g. "Balearic 4". When creating new discography
     item this should be prefixed by the date in yyyy-mm-dd- form.
 - name: hpTitle
-  label: Hp title
+  label: Homepage Title
   type: text
   hidden: false
   default: ''
@@ -28,7 +29,7 @@ fields:
   default: ''
   description: e.g. "6th October 2018"
 - name: label
-  label: Label
+  label: Record Label
   type: text
   hidden: false
   default: ''
@@ -37,13 +38,25 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: type
-  label: Type
+- name: type-old
+  label: Type-old
   type: text
   hidden: false
   default: original
   description: either "original", "remix", "collaboration" or "compilation" (choose
     one)
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: discography
+      file: 
+      path: 
+  label: Type
 - name: links
   label: Links
   type: field_group_list
