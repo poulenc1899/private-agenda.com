@@ -3,6 +3,7 @@ layout: release
 title: 4 Step
 hpTitle: 4 Step
 release-date: 11th December 2020
+date: 2020-12-11
 label: Too Slow To Disco
 format: 12-inch Vinyl, CD, Digital
 type: original
