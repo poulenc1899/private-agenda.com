@@ -15,7 +15,11 @@ links:
   site: Bandcamp
   url: https://nicolasbougaieff.bandcamp.com/album/higher-up-the-spiral
 tracklist: []
-press_quotes: []
+press_quotes:
+- quote: A sparkly pop song, yet it has all the tempo shifting and rhythmic contortion
+    of Bougaïeff’s album.
+  url: https://theanswerisinthebeat.net/2020/11/16/nicolas-bougaieff-higher-up-the-spiral-mute-2020/?fbclid=IwAR0dv732n8zLPYTe3mTN3Csj1RIljBCRv0XQp4aZYR20PA5Q6MWARyroBlk
+  author: The Answer Is In The Beat
 main-image: assets/img/a3233742563_10.jpeg
 thumb-image: assets/img/a3233742563_16.jpeg
 
