@@ -97,6 +97,8 @@ fields:
         file: 
         path: 
     label: Site
+    description: If the site used isn't listed, either select "an online store", or
+      edit this template by clicking the cog in the right-hand corner.
   - name: url
     label: Url
     type: textarea
