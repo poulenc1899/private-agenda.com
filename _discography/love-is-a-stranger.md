@@ -8,7 +8,7 @@ date: '2020-05-06'
 label: LAGASTA
 format: Digital
 links:
-- category: []
+- category: Buy Digital
   site: Bandcamp
   url: https://lagasta.bandcamp.com/track/lagasta-feat-private-agenda-love-is-a-stranger
 tracklist: []
