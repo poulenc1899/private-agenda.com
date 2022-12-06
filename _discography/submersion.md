@@ -3,11 +3,14 @@ layout: release
 type: collaboration
 title: Submersion
 hpTitle: Submersion
-date: 2021-05-21
+date: '2021-05-21'
 release-date: 21st May 2021
 label: Lo Recordings
-format: Digital / Physical
-links: []
+format: Digital, Cassette
+links:
+- url: https://private-agenda.bandcamp.com/album/submersion
+  category: Buy Physical
+  site: Bandcamp
 tracklist: []
 press_quotes: []
 main-image: assets/img/img_1102.jpg
