@@ -10,18 +10,18 @@ fields:
   default: release
   description: leave as "release" most of the time
 - name: title
-  label: Title
+  label: Page Title
   type: text
   hidden: false
   default: ''
-  description: The full release title e.g. "Balearic 4". When creating new discography
-    item this should be prefixed by the date in yyyy-mm-dd- form.
+  description: The full release title e.g. "Nicolas Bougaieff ft. Private Agenda -
+    Higher up the Spiral"
 - name: hpTitle
-  label: Homepage Title
+  label: Short Title
   type: text
   hidden: false
   default: ''
-  description: The short title as it appears on the homepage e.g. "Irréversible"
+  description: The short title as it appears on the homepage e.g. "Higher up the Spiral"
 - name: release-date
   label: Release date
   type: text
@@ -38,6 +38,8 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: The format that the release has been made in, e.g. Digital, 12-inch
+    Vinyl, Cassette
 - name: type
   type: select
   default: ''
@@ -66,12 +68,13 @@ fields:
       options:
       - Buy Digital
       - Buy Physical
+      - Stream
       source:
         type: simple
         section: 
         file: 
         path: 
-    label: Category
+    label: Buy / Stream Link Text
   - name: site
     type: select
     default: []
@@ -124,7 +127,7 @@ fields:
     hidden: false
     default: ''
     description: can be left blank
-  hidden: false
+  hidden: true
   default: ''
 - name: press_quotes
   label: Press quotes
@@ -148,18 +151,21 @@ fields:
     default: ''
   hidden: false
   default: ''
+  description: These quotes will appear at the bottom of the page, under the main
+    text.
 - name: main-image
   label: Main image
   type: file
   hidden: false
   default: ''
-  description: Main header image for release page (2200 × 1400px, .jpg)
+  description: Main banner header image for each discography item page (2200 × 1400px,
+    .jpg)
 - name: thumb-image
   label: Thumb image
   type: file
   hidden: false
   default: ''
-  description: thumbnail image for homepage (800 × 502px, .jpg)
+  description: The thumbnail image for homepage (800 × 502px, .jpg)
 pages:
 - _discography/love-is-a-stranger.md
 - _discography/nicolas-bougaieff-higher-up-the-spiral.md
