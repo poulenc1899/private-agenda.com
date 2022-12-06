@@ -4,6 +4,7 @@ type: collaboration
 title: Nicolas Bougaïeff - Higher Up the Spiral
 hpTitle: Higher Up the Spiral
 release-date: 11th September 2020
+date: 2020-09-11
 label: Mute
 format: Digital
 links:
