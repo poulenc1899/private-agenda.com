@@ -29,5 +29,4 @@ Even so, our interest was piqued and our arms open….
 Conversations with Nicolas about music have always been broad. It’s never “what does it sound like”, but always “how does this track serve a particular purpose?” “What does this track do that no preceding track has done before”. He wanted to encourage us to approach a ‘remix’ in the same way. No stems, no dancefloor re-edit, but a recomposition of the ideals of the original. In short he wanted us to use our palette and our ‘emotional reaction’ to create something entirely new.
 
 Higher Up the Spiral is a ‘recomposition’ (we just call it a remix though because it’s easier to say….and a little less pretentious, perhaps….) – an interpretation of the original score but a completely new composition (based upon the “little open scores” of the original track.
-
 {% include youtube-player.html id="8VO-y6XDOCY" %}
