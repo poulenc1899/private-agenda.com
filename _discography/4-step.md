@@ -23,7 +23,7 @@ press_quotes:
     a smash late-80s Hollywood film with ‘4 Step’
   author: TSTD
   url: https://tooslowtodisco.com/the-sunset-manifesto/
-main-image: assets/img/tstd-neo-sunset-manifesto-header.png
+main-image: assets/img/tstd-neo-sunset-manifesto-header-blue.jpg
 thumb-image: assets/img/online-pele-mele-be_2022-11-27_11_23_16.jpg
 
 ---
