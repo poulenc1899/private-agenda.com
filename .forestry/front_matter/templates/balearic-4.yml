@@ -23,11 +23,22 @@ fields:
   default: ''
   description: The short title as it appears on the homepage e.g. "Higher up the Spiral"
 - name: release-date
-  label: Release date
+  label: Release Date for Copy
   type: text
   hidden: false
   default: ''
-  description: e.g. "6th October 2018"
+  description: e.g. "6th October 2018" - to be displayed at the top of each release
+    page.
+- name: date
+  type: datetime
+  label: Release Date for Ordering
+  config:
+    required: false
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+  description: To put the releases in the right order. In the format yyyy-mm-dd
 - name: label
   label: Record Label
   type: text
