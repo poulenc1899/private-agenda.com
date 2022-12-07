@@ -28,4 +28,6 @@ thumb-image: assets/img/a-mannequin-lo.jpeg
 ---
 A Mannequin: Private Agenda’s body of work. Twelve tracks corresponding to twelve character traits, imagined as personalities in musical form. What are the dichotomies that define us? Our seen and unseen selves, the façade and the fundamental, the real and the imaginary.
 
+{% include youtube-player.html id="omIlCfyjFAA" %}
+
 {% include youtube-player.html id="WlSRsr_kQS4" %}
