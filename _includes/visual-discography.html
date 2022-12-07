@@ -12,7 +12,7 @@
 <div id="discography-list">
   {% for item in site.discography reversed %}
   <article class="cf fl w-100 w-50-m  w-25-ns pa2-ns all {{ item.type }}">
-    <a href="{{ item.url }}" class="ph2 ph0-ns pb3 link db">
+    <a href="{{ item.url }}" class="ph2 ph0-ns pb3 link dim light-green db">
     <div class="aspect-ratio aspect-ratio--1x1">
       <img style="background-image:url({{ item.thumb-image | absolute_url }});" 
       class="db bg-center cover aspect-ratio--object" />
