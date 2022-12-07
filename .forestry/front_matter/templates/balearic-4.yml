@@ -181,5 +181,6 @@ fields:
   description: The thumbnail image for homepage (800 × 502px, .jpg)
 pages:
 - _discography/4-step.md
+- _discography/a-mannequin.md
 - _discography/love-is-a-stranger.md
 - _discography/nicolas-bougaieff-higher-up-the-spiral.md
