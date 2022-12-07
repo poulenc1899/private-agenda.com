@@ -14,6 +14,8 @@ Photo by Marius Knieling
 
 {: normal-para}  
 [Download logo pack](https://www.dropbox.com/sh/bgb583ag52pp0td/AAC3K_0QaFoUrcyyd8bwqnnNa?dl=1 "Private Agenda logo pack")
+
+{: normal-para}
 [Download press shots](https://www.dropbox.com/sh/8qeeatpm5kgj51f/AAB5VYp3fZSpGKnj5unHF--Sa?dl=1 "press shots")
 
 {: normal-para}  
