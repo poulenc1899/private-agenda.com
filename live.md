@@ -14,6 +14,12 @@ Photo by Mark Phillips
 Recent Shows
 
 {:.f4 .lh-copy .measure .center}  
+19\.11.22 Lo & Behold (London, UK) LIVE  
+08\.11.22 Waiting Room (London, UK) LIVE  
+01\.08.22 World of Music  (Ibiza, ES) DJ  
+30\.10.22 Spiritland (London, UK) DJ  
+25\.06.22 House of St. Barnabas (London, UK) LIVE  
+26\.05.22 House of St. Barnabas (London, UK) DJ  
 22\.12.19 - Klunkerkranich (Berlin, DE) LIVE
 18\.10.19 - The Pickle Factory (London, UK) LIVE  
 12\.09.19 - The Waiting Room (London, UK) LIVE  
@@ -51,4 +57,4 @@ Recent Shows
 11\.03.17 - Sameheads (Berlin, DE) DJ  
 16\.02.17 - The Lexington (London, UK) DJ  
 15\.02.17 - Moth Club, (London, UK) LIVE  
-25\.01.17 - Phoenix (Exeter, UK) LIVE  
+25\.01.17 - Phoenix (Exeter, UK) LIVE
