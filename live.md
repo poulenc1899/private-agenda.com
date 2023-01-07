@@ -10,7 +10,7 @@ menu:
 {: .f4 .lh-copy .measure .center .i}
 Photo by Mark Phillips
 
-{:.f4 .lh-copy .measure .center}  
+{: .f4 .lh-copy .measure .center}  
 {% include youtube-player.html id="EGi-_Q04NGY" %}
 
 {: .measure .ph3 .ph5-ns .helvetica .fw5 .ttu .f4}
