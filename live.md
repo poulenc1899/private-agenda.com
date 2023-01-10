@@ -9,13 +9,15 @@ menu:
 ---
 Adapting seamlessly from the club to the concert hall, Private Agenda have already taken their full-stage live show on the road around Europe, whilst their behind-the-booth club sets blend DJing with captivating live vocals and synths in chameleonic two-piece performance.
 
-One-off performances have also included the production of sheet music to orchestrate a big band rendition of their sophomore single, _Paralysed_ and stripped-back renditions of their singles for Sofar Sounds.
+One-off performances have also included the production of sheet music to orchestrate a big band rendition of their sophomore single, [_Paralysed _](https://private-agenda.com/discography/Paralysed/)and stripped-back renditions of their singles for[ Sofar Sounds](https://www.youtube.com/watch?v=YTv7c63Zwws).
 
   
 {% include youtube-player.html id="EGi-_Q04NGY" %}
 
 {: .measure .helvetica .fw5 .ttu .f4}
-Recent Shows  
+Recent Shows
+
+  
 19\.11.22 - Lo & Behold (London, UK) LIVE  
 08\.11.22 - Waiting Room (London, UK) LIVE  
 01\.08.22 - World of Music  (Ibiza, ES) DJ  
