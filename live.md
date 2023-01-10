@@ -7,6 +7,10 @@ menu:
     weight: 3
 
 ---
+Adapting seamlessly from the club to the concert hall, Private Agenda have already taken their full-stage live show on the road around Europe, whilst their behind-the-booth club sets blend DJing with captivating live vocals and synths in chameleonic two-piece performance.
+
+One-off performances have also included the production of sheet music to orchestrate a big band rendition of their sophomore single, _Paralysed_ and stripped-back renditions of their singles for Sofar Sounds.
+
 {: .f4 .lh-copy .measure .center}  
 {% include youtube-player.html id="EGi-_Q04NGY" %}
 
