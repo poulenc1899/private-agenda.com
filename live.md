@@ -11,13 +11,11 @@ Adapting seamlessly from the club to the concert hall, Private Agenda have alrea
 
 One-off performances have also included the production of sheet music to orchestrate a big band rendition of their sophomore single, _Paralysed_ and stripped-back renditions of their singles for Sofar Sounds.
 
-{: .f4 .lh-copy .measure .center}  
+  
 {% include youtube-player.html id="EGi-_Q04NGY" %}
 
 {: .measure .helvetica .fw5 .ttu .f4}
-Recent Shows
-
-{:.f4 .lh-copy .measure .center}  
+Recent Shows  
 19\.11.22 - Lo & Behold (London, UK) LIVE  
 08\.11.22 - Waiting Room (London, UK) LIVE  
 01\.08.22 - World of Music  (Ibiza, ES) DJ  
