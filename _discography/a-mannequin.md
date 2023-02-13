@@ -20,7 +20,27 @@ links:
 tracklist: []
 press_quotes:
 - quote: Musical hyper-realism
-  author: Private Agenda
+  author: Rough Trade
+  url: ''
+- quote: Electrónica e a Pop se misturam de forma mágica e muito intensa.
+  author: PHONOGRAPH ME
+  url: https://phonographme.blogspot.com/2022/03/private-agenda-dressed-in-velvet.html
+- quote: クラシックなポップソングライティングは、広大なプロダクションによって補完されています
+  author: WRSZW
+  url: https://wrszw.net/albums/private-agenda-a-mannequin/
+- quote: Eine musikalische Welt von mühelosem Eklektizismus
+  author: HHV
+  url: ''
+- quote: Dream-pop songwriting with ethereal electronica
+  author: Norman Records
+  url: ''
+- quote: Disco-inflected, innovative mix of downtempo, electropop and experimental
+    beats.
+  author: Record Collector
+  url: ''
+- quote: MIDI toned vapourware flourishes, late-night pop-soul reminiscent of George
+    Michael
+  author: Greed
   url: ''
 main-image: assets/img/a-mannequin-lo.jpeg
 thumb-image: assets/img/a-mannequin-lo.jpeg
