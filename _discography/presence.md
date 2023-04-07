@@ -8,6 +8,9 @@ label: Nightshift
 format: Digital
 type: original
 links:
+- category: Buy Digital
+  site: Bandcamp
+  url: https://private-agenda.bandcamp.com/track/presence
 - category: Stream
   site: Spotify
   url: https://open.spotify.com/album/6wiCN7YHylNtYmIc76fQoJ?si=EeYu8bRuScm4skItxBwX5A
