@@ -16,9 +16,8 @@ links:
   site: Spotify
 tracklist: []
 press_quotes: []
-main-image: ''
-thumb-image: ''
-published: false
+main-image: assets/img/interject.jpeg
+thumb-image: assets/img/interject.jpeg
 
 ---
 Only the keenest followers of Private Agenda may have spotted that Interject is the second collaboration we have made with Gareth Williams. The first was released on Tusk Wax, called [Rhythm Ride](https://www.juno.co.uk/products/pork-tony-private-tusk-wax-twenty-five/666666-01/) (Gareth is one half of Pork & Tony…)
