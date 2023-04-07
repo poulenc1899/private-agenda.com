@@ -24,8 +24,8 @@ press_quotes:
   quote: A smooth popscape from a paradise lost. A melodious, summer-cosmic puff and
     an organic, groovy shake included.
   author: Grotesqualizer
-main-image: ''
-thumb-image: ''
+main-image: assets/img/2023-03-10-presence-press.jpg
+thumb-image: assets/img/2023-02-27-presence-artwork.jpg
 
 ---
 The making of _Presence_ could not have been more different to the making of our second album, [_A Mannequin_](https://private-agenda.com/discography/a-mannequin/ "A Mannequin")_._ That record was developed at a distance with files and demos being shared asynchronously over many months. The making of _Presence_ flipped that process on its head entirely.
