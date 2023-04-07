@@ -46,8 +46,14 @@ main-image: assets/img/a-mannequin-lo.jpeg
 thumb-image: assets/img/a-mannequin-lo.jpeg
 
 ---
-A Mannequin: Private Agenda’s body of work. Twelve tracks corresponding to twelve character traits, imagined as personalities in musical form. What are the dichotomies that define us? Our seen and unseen selves, the façade and the fundamental, the real and the imaginary.
+Where do you start composing a body of work? You could just write twelve great tracks and produce them in such a way there’s a synthesis, or you can look to introduce an umbrella theme. Everyone will have their own ways and means, but we’ve always looked for a framework or a theme from the outset to inspire, and to guide songwriting.
 
 {% include youtube-player.html id="omIlCfyjFAA" %}
+
+This project started with a track called ‘Gemini’. It was a track so full of personality and was so distinct at the time compared to other music we were making. All of a sudden, we had a framework for twelve strong themes: things that represented us, our friends, our experiences with personality, people we thought we knew, people we wanted to be…
+
+The tracks should have an independence and exist on their own terms, but remain interrelated, and relatable… a body of work. A Mannequin.
+
+Before we released the album, we sought to hide all the overt signs of the zodiac, leaving just a few hints… only the closest of listeners have since picked up on this project’s astrological beginnings…
 
 {% include youtube-player.html id="WlSRsr_kQS4" %}
