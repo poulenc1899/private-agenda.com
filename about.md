@@ -19,7 +19,7 @@ Photo by Marius Knieling
 [Download press shots](https://www.dropbox.com/sh/8qeeatpm5kgj51f/AAB5VYp3fZSpGKnj5unHF--Sa?dl=1 "press shots")
 
 {: normal-para}  
-**Private Agenda create music to reminisce to, in a variety of shades, from their studios in London and Berlin.**
+**Private Agenda create music to reminisce to, in a variety of shades, from their studios in London and Amsterdam.**
 
 {: normal-para}  
 In their teen years, Sean Phillips and Martin Aggrowe dipped in and out of musical projects with their peers, swapping instruments, records and literature along the way. What united these early efforts was a growing fascination and exploration of a multi-genre, interdisciplinary approach to musical projects. If Private Agenda didn’t exist in name, it existed in spirit from an early stage.
