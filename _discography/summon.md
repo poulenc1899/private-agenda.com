@@ -24,7 +24,7 @@ credits:
 - role: Artwork
   instrument: Suzanne Moxhay
 press_quotes: []
-main-image: assets/img/summon-cover.jpg
+main-image: assets/img/summon-vinyl-mockup.jpg
 thumb-image: assets/img/summon-cover-thumb.jpg
 
 ---
