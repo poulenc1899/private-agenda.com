@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Private Agenda - Music to Reminisce to"
-description: "Private Agenda create music to reminisce to, in a variety of shades, from their studios in London and Berlin. Discover Private Agenda's work in detail, find press photos, the official biography and how to get in touch."
+description: "Private Agenda is the alternative pop project of Sean Phillips and Martin Rowe, based in London. Discover Private Agenda's work in detail, find press photos, the official biography and how to get in touch."
 lang: "en" # or fr, de, es etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://private-agenda.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,6 +35,9 @@ plugins:
 
 # Build settings
 markdown: kramdown
+
+# Show releases with a future release date (e.g. upcoming albums)
+future: true
 
 sass:
   style: compressed

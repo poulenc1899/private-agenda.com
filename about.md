@@ -18,23 +18,29 @@ Photo by Marius Knieling
 {: normal-para}
 [Download press shots](https://www.dropbox.com/sh/8qeeatpm5kgj51f/AAB5VYp3fZSpGKnj5unHF--Sa?dl=1 "press shots")
 
-{: normal-para}  
-**Private Agenda create music to reminisce to, in a variety of shades, from their studios in London and Amsterdam.**
+{: .ph3 .f3 .measure .center .i .lh-copy}  
+“The antithesis of paint-by-numbers dance music” – Mixmag
+
+{: .ph3 .f3 .measure .center .i .lh-copy}  
+“An innovative mix of downtempo, electropop and experimental beats” – Record Collector
+
+{: .ph3 .f3 .measure .center .i .lh-copy}  
+“No one is making ambient pop quite like this” – Electronic Sound
 
 {: normal-para}  
-In their teen years, Sean Phillips and Martin Aggrowe dipped in and out of musical projects with their peers, swapping instruments, records and literature along the way. What united these early efforts was a growing fascination and exploration of a multi-genre, interdisciplinary approach to musical projects. If Private Agenda didn’t exist in name, it existed in spirit from an early stage.
+**Private Agenda is the alternative pop project of Sean Phillips and Martin Rowe. Now based in London, the pair have crafted an alluring, versatile sound from a palette that touches on dream pop, disco, ambient and adult contemporary.**
 
 {: normal-para}  
-In a creative industry obsessed with labels and labelling, it was the discovery of the eclectic music and fashion culture of the late 1980s ‘Balearic Beat’ – a world where Talking Heads, Mark Isham and The Human League could be uttered in the same sentence – and a site where consciously forward-thinking production and stylistic sensibilities with deep roots in the electronic music underground were coupled with unabashed reverence for melody and pop songwriting. It was the musical culture of an island the pair had never set foot upon that would give the pair’s collaborative work a referential framework.
+Their music has appeared on some of the most iconic indie labels of the past thirty years, including Mute (Depeche Mode, Goldfrapp), City Slang (Caribou, Gold Panda), Wall of Sound (Röyksopp, Grace Jones) and Skint (Fatboy Slim, Róisín Murphy), alongside two studio albums for Lo Recordings, an experimental hotbed whose roster has included Aphex Twin, Grimes and Sonic Youth's Thurston Moore.
 
 {: normal-para}  
-The pair have embarked on a scopious musical journey releasing music on iconic indie labels such as International Feel, Lo Recordings (Aphex Twin, Grimes), Wall of Sound (Grace Jones, Röyksopp) and Live at Robert Johnson (Fort Romeau, Roman Flügel), collaborating with artists such as Berghain resident Massimiliano Pagliara, attracting remixes from artists such as Tuff City Kids and Andy Butler (Hercules and Love Affair) and taking their live show on tour with emerging talents like Parcels (Kitsune) and Park Hotel, attracting admirers in the electronic music underground and the mainstream music industry alike.
+Their debut album, [Île de Rêve](/discography/Ile-de-Reve/), was a deeply immersive downtempo record that took islands as its storytelling inspiration. Its follow-up, [A Mannequin](/discography/a-mannequin/), made a fresh case for the concept album, with each of its twelve tracks crafted as a character trait in musical form. Their third album, [Summon](/discography/summon/), arrives on 6th February 2027 via their own imprint, Nightshift.
 
 {: normal-para}  
-Never shying away from the tensions that underpin the club culture their music inhabits, they’ve also never shied away from narrating their own stories.
+The pair have collaborated with artists as diverse as cosmic-disco pioneer Daniele Baldelli, London indie-funk outfit Stats and Berghain resident Massimiliano Pagliara. As a live act the pair have headlined London’s Moth Club and previously supported disco-funk outfit Parcels on tour. The pair also regularly play behind the booth at some of Europe's leading clubs.
 
 {: normal-para}  
-Read of the stories behind our releases in [Discography](https://private-agenda.com/discography/ "Discography").
+Read the stories behind our releases in [Discography](https://private-agenda.com/discography/ "Discography").
 
 {: normal-para}  
 Download Private Agenda's [latest press pictures](https://www.dropbox.com/sh/gs1x7vc0tplkfta/AACfXklT4cvZ9s6Lcpsm4T23a?dl=0 "Press Images Download").
