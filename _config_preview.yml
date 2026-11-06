@@ -1,0 +1,5 @@
+# Overrides for the staging site at https://preview.private-agenda.com
+# Build with: jekyll build --config _config.yml,_config_preview.yml
+url: "https://preview.private-agenda.com"
+# Blocks search engines: robots.txt disallows everything and pages get a noindex meta tag
+noindex: true
