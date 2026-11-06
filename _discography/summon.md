@@ -32,6 +32,8 @@ Summon is eight vivid, dreamy and occasionally out-of-body tracks about being dr
 
 Freedom comes in a lot of shapes on this record. Getting in a car with the feeling you could travel anywhere for the first time as teenagers. Getting lost in the club during our Berlin years. The freedom we've found in our own relationships, and in learning to express ourselves clearly. All of those moments are in there somewhere.
 
+<img class="db center w-60 pv3" src="/assets/img/summon-wooden-stamp.png" alt="Private Agenda – Summon wooden stamp" title="Eight songs about answering the call, wherever it leads.">
+
 Our debut, [Île de Rêve](/discography/Ile-de-Reve/), was an album about 'somewhere else': a collection of fantasies, finding new worlds in distant islands. Its follow-up, [A Mannequin](/discography/a-mannequin/), looked beneath the surface, at the immutable traits of personality in ourselves and the people around us.
 
 This time it's about what's actually happened to us. Freedom isn't necessarily found in our dreams or deep in our own minds, but in the experiences we've had; intentional or unintentional, pleasant or unpleasant. Summon is also the first album we've made from the country we both grew up in, so it feels right that it reflects the moments of freedom we've had here, from our teenage years to now.
