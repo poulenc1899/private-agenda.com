@@ -12,7 +12,7 @@
         </div>
         <div id="Layer-one" class="absolute top-0 right-0 left-0 ph1 ph5-ns pv5">
             <div class="fl w-third-l w-75-m w-100 pv4-ns pv6" data-scroll-speed="1" style="pointer-events: auto">
-                <img class="w-100" src="assets/img/PA-Grid-1800.png">
+                <img class="w-100" src="{{ page.featured-text-underlay | default: 'assets/img/PA-Grid-1800.png' }}" alt="">
             </div>
         </div>
         <div id="Layer-two" class="absolute top-0 right-0 left-0 pa4-ns pa0">
@@ -27,7 +27,7 @@
             </div>
         </div>
         <div id="Layer-five" class="absolute top-0 right-0 left-0 pa5-ns pa0 db-l">
-            <div class="vh-100"></div>
+            <div class="{% if page.featured-image %}vh-75{% else %}vh-100{% endif %}"></div>
             <div class="fr w-two-thirds-l w-100" data-scroll-speed="8" style="pointer-events: auto">
                 {% if page.featured-image %}
                 <a href="{{ page.featured-image-link }}" title="{{ page.featured-image-text }}">
