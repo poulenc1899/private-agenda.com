@@ -31,7 +31,7 @@
             <div class="fr w-two-thirds-l w-100" data-scroll-speed="8" style="pointer-events: auto">
                 {% if page.featured-image %}
                 <a href="{{ page.featured-image-link }}" title="{{ page.featured-image-text }}">
-                    <img class="w-100" src="{{ page.featured-image }}" alt="{{ page.featured-image-text }}">
+                    <img class="db center" style="width: {{ page.featured-image-width | default: '100%' }}" src="{{ page.featured-image }}" alt="{{ page.featured-image-text }}">
                 </a>
                 {% else %}
                      <a href="{{ page.featured-video-link }}" alt="{{ page.featured-video-text }}" title="{{ page.featured-video-text }}">

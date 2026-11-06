@@ -12,6 +12,7 @@ featured-video-text: Who do you think you are?
 featured-image: assets/img/summon-wooden-stamp.png
 featured-image-link: "/discography/summon"
 featured-image-text: Private Agenda – Summon
+featured-image-width: 50%
 featured-text-overlay: assets/img/PA-Grid-2800-orange.png
 featured-text-underlay: assets/img/PA-Grid-1800-orange.png
 
