@@ -23,17 +23,23 @@
         </div>
         <div id="Layer-three" class="absolute top-0 right-0 left-0 ph1 ph5-ns pv5">
             <div class="fl w-third-l w-75-m w-100 pv4-ns pv6" data-scroll-speed="1" style="pointer-events: auto">
-                <img class="w-100" src="assets/img/PA-Grid-2800.png">
+                <img class="w-100" src="{{ page.featured-text-overlay | default: 'assets/img/PA-Grid-2800.png' }}" alt="">
             </div>
         </div>
         <div id="Layer-five" class="absolute top-0 right-0 left-0 pa5-ns pa0 db-l">
             <div class="vh-100"></div>
             <div class="fr w-two-thirds-l w-100" data-scroll-speed="8" style="pointer-events: auto">
+                {% if page.featured-image %}
+                <a href="{{ page.featured-image-link }}" title="{{ page.featured-image-text }}">
+                    <img class="w-100" src="{{ page.featured-image }}" alt="{{ page.featured-image-text }}">
+                </a>
+                {% else %}
                      <a href="{{ page.featured-video-link }}" alt="{{ page.featured-video-text }}" title="{{ page.featured-video-text }}">
                     <video muted loop autoplay name="media" class="w-100">
                     <source src="{{ page.featured-video }}" type="video/mp4" >
                 </video>
             </a>
+                {% endif %}
                 
             </div>
         </div>
