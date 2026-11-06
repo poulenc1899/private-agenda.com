@@ -32,7 +32,10 @@ Summon is eight vivid, dreamy and occasionally out-of-body tracks about being dr
 
 Freedom comes in a lot of shapes on this record. Getting in a car with the feeling you could travel anywhere for the first time as teenagers. Getting lost in the club during our Berlin years. The freedom we've found in our own relationships, and in learning to express ourselves clearly. All of those moments are in there somewhere.
 
-<img class="db center w-60 pv3" src="/assets/img/summon-wooden-stamp.png" alt="Private Agenda – Summon wooden stamp" title="Eight songs about answering the call, wherever it leads.">
+<figure class="mh0 mv4">
+  <img class="db w-100" src="/assets/img/summon-mixing-studio.jpg" alt="Sean and Martin in the studio mixing Summon">
+  <figcaption class="f6 gray mt2 lh-copy">Sean and Martin Mixing Summon at Camden Garden Studios, Jan 2026</figcaption>
+</figure>
 
 Our debut, [Île de Rêve](/discography/Ile-de-Reve/), was an album about 'somewhere else': a collection of fantasies, finding new worlds in distant islands. Its follow-up, [A Mannequin](/discography/a-mannequin/), looked beneath the surface, at the immutable traits of personality in ourselves and the people around us.
 
