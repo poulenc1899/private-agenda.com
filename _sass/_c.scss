@@ -35,6 +35,12 @@
 .c-h6 { height: 24rem; }
 
 .c-vh-150 { height: 150vh; }
+// Homepage masthead sized to end just below the featured image (desktop);
+// smaller screens keep the original 150vh.
+.c-masthead-fit { height: 150vh; }
+@media #{$breakpoint-large} {
+  .c-masthead-fit { height: max(calc(75vh + 33.34vw), calc(72vw + 1rem)); }
+}
 
 .c-sticky { position: sticky; 
 			top: 0px;}

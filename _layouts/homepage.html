@@ -1,6 +1,6 @@
 {% include head.html %} {% include nav-floating.html %}
 <main class="w-100 bg-white">
-    <section id="Masthead" class="w-100 c-vh-150 relative overflow-hidden" style="pointer-events: none">
+    <section id="Masthead" class="w-100 {{ page.masthead-height | default: 'c-vh-150' }} relative overflow-hidden" style="pointer-events: none">
 
         <div id="Layer-zero" class="vh-100 absolute top-0 right-0 left-0">
         </div>
