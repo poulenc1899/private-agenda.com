@@ -39,7 +39,13 @@
 // smaller screens keep the original 150vh.
 .c-masthead-fit { height: 150vh; }
 @media #{$breakpoint-large} {
-  .c-masthead-fit { height: max(calc(75vh + 33.34vw), calc(72vw + 1rem)); }
+  .c-masthead-fit { height: max(calc(75vh + 33.34vw + 1.5rem), calc(72vw + 1rem)); }
+}
+
+// Pull the homepage discography up so it starts slightly under the featured image
+.c-disc-overlap { margin-top: 2rem; }
+@media #{$breakpoint-large} {
+  .c-disc-overlap { margin-top: -5rem; }
 }
 
 .c-sticky { position: sticky; 
