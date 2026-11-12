@@ -1,0 +1,19 @@
+{% include head.html %}
+<body class="w-100 sans-serif">
+<main class="w-100 bg-white min-vh-100">
+    <section class="w-100 ph3 pt5 pb4 tc">
+        <a href="/" title="Private Agenda" class="helvetica fw5 ttu f3 f2-ns link black dim">Private Agenda</a>
+    </section>
+    <section class="w-100 ph3 pb4">
+        <div class="measure center tc">
+            {% for link in page.links %}
+            <a class="db pv3 mb3 f4 f3-ns link dim pa-orange ba bw1 b--pa-orange" href="{{ link.url }}"{% if link.external %} target="_blank" rel="noopener"{% endif %}>{{ link.title }}</a>
+            {% endfor %}
+        </div>
+    </section>
+    <section class="w-100 ph3 pb5">
+        <a href="{{ page.image-link }}" title="{{ page.image-text }}">
+            <img class="db center w-100" style="max-width: 420px" src="/{{ page.image }}" alt="{{ page.image-text }}">
+        </a>
+    </section>
+{% include footer-white.html %}
