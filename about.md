@@ -28,16 +28,28 @@ Photo by Marius Knieling
 “No one is making ambient pop quite like this” – Electronic Sound
 
 {: normal-para}  
-**Private Agenda is the alternative pop project of Sean Phillips and Martin Rowe. Now based in London, the pair have crafted an alluring, versatile sound from a palette that touches on dream pop, disco, ambient and adult contemporary.**
+**Private Agenda is the alternative pop project of Sean Phillips and Martin Bergmann-Rowe. Now based in London, the pair have crafted an alluring, versatile sound from a palette that touches on dream pop, disco, ambient and adult contemporary.**
 
 {: normal-para}  
-Their music has appeared on some of the most iconic indie labels of the past thirty years, including Mute (Depeche Mode, Goldfrapp), City Slang (Caribou, Gold Panda), Wall of Sound (Röyksopp, Grace Jones) and Skint (Fatboy Slim, Róisín Murphy), alongside two studio albums for Lo Recordings, an experimental hotbed whose roster has included Aphex Twin, Grimes and Sonic Youth's Thurston Moore.
+Their previous studio albums were released via Lo Recordings, an experimental hotbed whose roster has included Aphex Twin, Grimes and Sonic Youth's Thurston Moore.
 
 {: normal-para}  
-Their debut album, [Île de Rêve](/discography/Ile-de-Reve/), was a deeply immersive downtempo record that took islands as its storytelling inspiration. Its follow-up, [A Mannequin](/discography/a-mannequin/), made a fresh case for the concept album, with each of its twelve tracks crafted as a character trait in musical form. Their third album, [Summon](/discography/summon/), arrives on 6th February 2027 via their own imprint, Nightshift.
+[Île de Rêve](/discography/Ile-de-Reve/), their debut album, was a deeply immersive downtempo record that took islands as its inspiration. Its follow-up, [A Mannequin](/discography/a-mannequin/), made a fresh case for the concept album, with each of its twelve tracks crafted as a character trait in musical form.
 
 {: normal-para}  
-The pair have collaborated with artists as diverse as cosmic-disco pioneer Daniele Baldelli, London indie-funk outfit Stats and Berghain resident Massimiliano Pagliara. As a live act the pair have headlined London’s Moth Club and previously supported disco-funk outfit Parcels on tour. The pair also regularly play behind the booth at some of Europe's leading clubs.
+Their wider discography has appeared on some of the most iconic indie labels of the past thirty years, including Mute (Depeche Mode, Goldfrapp), City Slang (Caribou, Gold Panda), Wall of Sound (Röyksopp, Grace Jones) and Skint (Fatboy Slim, Róisín Murphy).
+
+{: normal-para}  
+In recent years, the pair have established their own imprint, Nightshift, inspired by a club night of the same name the pair ran at Berlin’s much-missed Farbfernseher club, with releases including [Full Moon](/discography/Full-Moon/), [Affection](/discography/Affection/) and the duo’s experimental [Presence](/discography/presence/) series.
+
+{: normal-para}  
+The pair have also collaborated with a diverse array of artists, including cosmic-disco pioneer Daniele Baldelli and Berghain resident Massimiliano Pagliara.
+
+{: normal-para}  
+Live and DJ performances have seen the pair headline London’s Moth Club, provide tour support to Parcels and perform behind the booth at some of Europe's leading clubs, including Robert Johnson and Dalston Superstore.
+
+{: normal-para}  
+[Summon](/discography/summon/) will be the pair’s third full-length studio album and will be released on digital and physical formats in February 2027.
 
 {: normal-para}  
 Read the stories behind our releases in [Discography](https://private-agenda.com/discography/ "Discography").
