@@ -8,6 +8,9 @@ label: Nightshift
 format: Digital
 type: original
 links:
+- url: https://open.spotify.com/album/1NBLRgr4NruBsfYXL66z3B
+  category: Stream
+  site: Spotify
 - url: https://fairsound.com/product/private-agenda-summon/
   category: Pre-order Summon on Vinyl
   site: Fairsound
