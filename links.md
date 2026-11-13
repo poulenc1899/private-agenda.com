@@ -5,6 +5,9 @@ links:
 - title: Stream Suprasensual on Spotify
   url: https://open.spotify.com/album/1NBLRgr4NruBsfYXL66z3B
   external: true
+- title: Stream Suprasensual on Apple Music
+  url: https://music.apple.com/us/album/suprasensual-single/6826857411
+  external: true
 - title: Pre-order Summon LP
   url: https://fairsound.com/product/private-agenda-summon/
   external: true
