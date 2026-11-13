@@ -16,7 +16,7 @@ Photo by Marius Knieling
 [Download logo pack](https://www.dropbox.com/sh/bgb583ag52pp0td/AAC3K_0QaFoUrcyyd8bwqnnNa?dl=1 "Private Agenda logo pack")
 
 {: normal-para}
-[Download press shots](https://www.dropbox.com/sh/8qeeatpm5kgj51f/AAB5VYp3fZSpGKnj5unHF--Sa?dl=1 "press shots")
+[Download press shots](https://www.dropbox.com/scl/fo/tr9kcen9smba6ny9d6a0x/AJj6Fjrviw5e13ZLyNtV5NE?rlkey=fgqnqcn5b0sz5wua5e33iikki&dl=1 "press shots")
 
 {: .ph3 .f3 .measure .center .i .lh-copy}  
 “The antithesis of paint-by-numbers dance music” – Mixmag
@@ -55,4 +55,4 @@ Live and DJ performances have seen the pair headline London’s Moth Club, provi
 Read the stories behind our releases in [Discography](https://private-agenda.com/discography/ "Discography").
 
 {: normal-para}  
-Download Private Agenda's [latest press pictures](https://www.dropbox.com/sh/gs1x7vc0tplkfta/AACfXklT4cvZ9s6Lcpsm4T23a?dl=0 "Press Images Download").
+Download Private Agenda's [latest press pictures](https://www.dropbox.com/scl/fo/tr9kcen9smba6ny9d6a0x/AJj6Fjrviw5e13ZLyNtV5NE?rlkey=fgqnqcn5b0sz5wua5e33iikki&dl=1 "Press Images Download").
