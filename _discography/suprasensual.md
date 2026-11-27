@@ -14,6 +14,9 @@ links:
 - url: https://music.apple.com/us/album/suprasensual-single/6826857411
   category: Stream on Apple Music
   site: Apple Music
+- url: https://www.youtube.com/watch?v=2JTg3LrIPVo
+  category: Listen on YouTube
+  site: YouTube
 - url: https://fairsound.com/product/private-agenda-summon/
   category: Pre-order Summon on Vinyl
   site: Fairsound
