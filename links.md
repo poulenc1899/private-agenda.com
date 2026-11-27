@@ -2,6 +2,14 @@
 layout: links
 title: Links
 links:
+- title: Stream Light As A Feather
+  options:
+  - title: Spotify
+    url: https://open.spotify.com/album/5gfHz7iRkDCx0riShs7xWC
+  - title: Apple Music
+    url: https://music.apple.com/gb/album/light-as-a-feather-single/6836868857
+  - title: YouTube
+    url: https://www.youtube.com/watch?v=Gq4V7UM8HGM
 - title: Stream Suprasensual on Spotify
   url: https://open.spotify.com/album/1NBLRgr4NruBsfYXL66z3B
   external: true

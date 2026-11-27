@@ -47,7 +47,7 @@ The cover artwork is by [Suzanne Moxhay](https://www.suzannemoxhay.com/).
 
 1. Perfect
 2. [Suprasensual](/discography/suprasensual/)
-3. Light As A Feather
+3. [Light As A Feather](/discography/light-as-a-feather/)
 4. The Chase
 5. Dancing In The Rain
 6. Lightness

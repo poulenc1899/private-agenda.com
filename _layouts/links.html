@@ -7,8 +7,23 @@
     <section class="w-100 ph3 pb4">
         <div class="measure center tc">
             {% for link in page.links %}
+            {% if link.options %}
+            <details class="link-expand mb3">
+                <summary class="db pv3 f4 f3-ns pointer dim pa-orange ba bw1 b--pa-orange">{{ link.title }}</summary>
+                {% for opt in link.options %}
+                <a class="db pv2 mt2 f5 f4-ns link dim pa-orange ba b--pa-orange" href="{{ opt.url }}" target="_blank" rel="noopener">{{ opt.title }}</a>
+                {% endfor %}
+            </details>
+            {% else %}
             <a class="db pv3 mb3 f4 f3-ns link dim pa-orange ba bw1 b--pa-orange" href="{{ link.url }}"{% if link.external %} target="_blank" rel="noopener"{% endif %}>{{ link.title }}</a>
+            {% endif %}
             {% endfor %}
+            <style>
+              .link-expand summary { list-style: none; }
+              .link-expand summary::-webkit-details-marker { display: none; }
+              .link-expand summary::after { content: " +"; }
+              .link-expand[open] summary::after { content: " \2212"; }
+            </style>
         </div>
     </section>
     <section class="w-100 ph3 pb5">
