@@ -15,7 +15,7 @@
                 {% endfor %}
             </details>
             {% else %}
-            <a class="db pv3 mb3 f4 f3-ns link dim pa-orange ba bw1 b--pa-orange" href="{{ link.url }}"{% if link.external %} target="_blank" rel="noopener"{% endif %}>{{ link.title }}</a>
+            <a class="db pv3 mb3 f4 f3-ns link dim ba bw1 b--pa-orange {% if link.highlight %}white bg-pa-orange{% else %}pa-orange{% endif %}" href="{{ link.url }}"{% if link.external %} target="_blank" rel="noopener"{% endif %}>{{ link.title }}</a>
             {% endif %}
             {% endfor %}
             <style>

@@ -2,6 +2,10 @@
 layout: links
 title: Links
 links:
+- title: Pre-order Summon LP
+  url: https://fairsound.com/product/private-agenda-summon/
+  external: true
+  highlight: true
 - title: Stream Light As A Feather
   options:
   - title: Spotify
@@ -18,11 +22,6 @@ links:
     url: https://music.apple.com/us/album/suprasensual-single/6826857411
   - title: YouTube
     url: https://www.youtube.com/watch?v=2JTg3LrIPVo
-- title: Pre-order Summon LP
-  url: https://fairsound.com/product/private-agenda-summon/
-  external: true
-- title: Read more about Suprasensual
-  url: /discography/suprasensual/
 image: assets/img/summon-wooden-stamp.png
 image-link: /discography/summon/
 image-text: "Summon – the new album, out 6th February 2027"
